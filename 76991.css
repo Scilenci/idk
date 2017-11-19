@@ -195,7 +195,7 @@ font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida San
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #cf9696;
+background: #e7cbcb;
 color: #000;
 font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
@@ -209,7 +209,7 @@ font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida San
 
 .table .left {
 border: 1px solid #000;
-background: #cf9696;
+background: #e7cbcb;
 color: #000;
 font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
