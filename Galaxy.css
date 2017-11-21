@@ -191,3 +191,6 @@ background: rgba(251, 151, 179, 0.21);
 border: 1px solid #000;
 border-left: none;
 }
+
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/CqRnjLz.png')
