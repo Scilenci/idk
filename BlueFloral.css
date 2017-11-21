@@ -5,7 +5,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: Times !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -20,7 +20,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+font-family: Times !important;
 }
  
  
@@ -28,13 +28,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 /* Topbar */
@@ -44,13 +44,13 @@ background: #9DB9BE;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .badge {
 background: #9DB9BE;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 /* Navigational Bar */
@@ -59,19 +59,19 @@ border: 1px solid #000;
 background: rgba(157, 185, 190, 0.21);
 border: 1px solid #000;
 box-shadow: none;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .navbar {
 background: #9DB9BE;
 border-bottom: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -79,7 +79,7 @@ color: #000;
 background: #9DB9BE;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Times !important;
 } 
  
  
@@ -92,25 +92,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .col-md-3 .panel {
 background: #9DB9BE;
 border: 1px solid #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: Times !important;
 }
  
 .progress-bar {
 background: #9DB9BE;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .progress {
 background: #DED8C7;
 border: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Times !important;
 }
  
  
@@ -120,55 +120,55 @@ border: 1px solid #000;
 background: #9DB9BE;
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .alert-danger {
 color: #000000;
 background: #9DB9BE;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .alert-success {
 color: #000;
 background: #9DB9BE;
 border: 1px solid #000;
- font-family: Arial;
+ font-family: Times !important;
 }
 
 .breadcrumb {
 background:  rgba(175, 185, 90, 0.21);
 font-size: 13px;
 border: 1px solid #000;
- font-family: Arial;
+ font-family: Times !important;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 /* Tables */
@@ -177,48 +177,48 @@ border: 0px solid #000;
 border-radius: 50px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: #9DB9BE;
 border-collapse: separate;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: url("https://i.imgur.com/s4cOmAo.jpg");
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #9DB9BE;
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .table .left {
 border: 1px solid #000;
 background: #b3c8cc;
 color: #000;
- font-family: Arial;
+font-family: Times !important;
 }
 
 .inner-table .right {
 background: #DED8C7;
 border: 1px solid #000;
 border-left: none;
- font-family: Arial;
+font-family: Times !important;
 }
 
 
