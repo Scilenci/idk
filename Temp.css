@@ -112,7 +112,8 @@ background: #f7f7f7;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
- 
+
+.progress div {color: #000;}
  
 /* Chat */
  
