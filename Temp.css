@@ -11,7 +11,7 @@ color: #000;
 border-bottom: 1px solid #000;
 }
 
-/* Buttons */
+/* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(175, 107, 61, 0.21);
 color: #000;
@@ -24,7 +24,7 @@ border-radius: 5px;
 }
  
  
-/* Links */
+/* LINKS */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
@@ -37,7 +37,7 @@ color: #000000;
  font-family: Arial;
 }
  
-/* Topbar */
+/* TOPBAR */
  
 .topbar {
 background: rgba(175, 107, 61, 0.21);
@@ -53,7 +53,7 @@ border: 1px solid #000;
  font-family: Arial;
 }
  
-/* Navigational Bar */
+/* NAVBAR */
  
 .main {
 background: rgba(175, 107, 61, 0.21);
@@ -84,7 +84,7 @@ border-right: 1px solid #000;
  
  
  
-/* Sidebar */
+/* SIDEBAR */
  
 .sidebar {
 background: rgba(175, 107, 61, 0.21);
@@ -112,10 +112,10 @@ background: #f7f7f7;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
-
+/* text on progress bars */
 .progress div {color: #000;}
  
-/* Chat */
+/* CHAT */
  
 .chat_light, .chat_dark {
 background: rgba(175, 107, 61, 0.21);
@@ -172,7 +172,7 @@ border: 0px solid #000;
  font-family: Arial;
 }
  
-/* Tables */
+/* TABLES */
  
 #lion_image {
 border-radius: 25px;
@@ -194,6 +194,7 @@ border: 0px solid #000;
  font-family: Arial;
 }
 
+/* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
 background: rgba(175, 107, 61, 0.21);
@@ -201,6 +202,7 @@ color: #000;
  font-family: Arial;
 }
 
+/* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #AF6B3D;
@@ -208,6 +210,7 @@ color: #000;
  font-family: Arial;
 }
 
+/* left part inside box */
 .table .left {
 border: 1px solid #000;
 background: rgba(175, 107, 61, 0.21);
@@ -215,6 +218,7 @@ color: #000;
  font-family: Arial;
 }
 
+/* right part inside box */
 .inner-table .right {
 background: rgba(175, 107, 61, 0.21);
 border: 1px solid #000;
@@ -222,6 +226,9 @@ border-left: none;
  font-family: Arial;
 }
 
-
+/* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/jMZkN1X.png')
+
+ 
+ /* fill in for extra info */
