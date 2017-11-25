@@ -136,14 +136,14 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: #b192ba;
+background: #eaa2be;
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
 color: #000;
-background: #b192ba);
+background: #eaa2be;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -213,7 +213,7 @@ color: #000;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: #EAA2BE);
+background: #eaa2be;
 color: #000;
  font-family: Arial;
 }
