@@ -24,24 +24,24 @@ overflow:auto;
 }
 
 div.box2 {
-background:rgba(175, 107, 61, 0.21);
+background:#FFD4E7;
 text-align:center;
 color:black;
 width:700px;
 height:60px;
-border:2px solid black;
+border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
 }
 
 .box2:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#FFD4E7;
 text-align:center;
 color:black;
 width:700px;
 height:255px;
-border:2px solid black;
+border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
