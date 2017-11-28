@@ -227,14 +227,110 @@ body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img
 content: url('https://i.imgur.com/lfm685k.png')
  
 
-div .scrollBox {
-background: rgba(175, 107, 61, 0.21); /* This changes the background colour. */
-overflow: auto; /* This makes the boxes scroll. */
-border: 1px Solid #000; /* This changes the border size, type and colour. */
-width: 10px; /* Width of box */
-height: 10px; /* Height of box */
-padding: 5px; /* Keeps text from touching the borders. */
-margin: 5px; /* Keeps borders from touching other borders. */
-color: #000; /* Changes colour of text */
+div.box1 {
+background:#be9b7b;
+text-align:center;
+color:black;
+width:500px;
+height:50px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:hidden;
+}
 
+.box1:hover {
+background:#be9b7b;
+text-align:center;
+color:black;
+width:500px;
+height:255px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:auto;
+}
+
+div.box2 {
+background:#854442;
+text-align:center;
+color:black;
+width:500px;
+height:50px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:#854442;
+text-align:center;
+color:black;
+width:500px;
+height:255px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:auto;
+}
+
+div.box3 {
+background:#4b3832;
+text-align:center;
+color:black;
+width:500px;
+height:50px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:#4b3832;
+text-align:center;
+color:black;
+width:500px;
+height:255px;
+border:2px solid black;
+transition:all ease 2s;
+border-radius:15px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:rgba(190,155,123,.7);
+color:black;
+border:2px solid black;
+position:fixed;
+text-align:center;
+border-radius:15px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+/* HTML is 
+
+<div class="box1"> 
+<h3>Header</h3>
+TEXT HERE
+</div>
+<div class="box2"> 
+<h3>Header</h3>
+TEXT HERE
+</div>
+<div class="box3"> 
+<h3>Header</h3>
+TEXT HERE
+</div>
+<div class="box4"> 
+<h3>Header</h3>
+TEXT HERE
+</div>
+
+<div class="boxfloat">Floating box</div>
  
