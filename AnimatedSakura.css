@@ -58,7 +58,6 @@ font-family: Arial !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
- border-style:dashed;
 }
 
 /* BUTTONS */
@@ -71,7 +70,6 @@ font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
  font-family: Arial;
-border-style:dashed;
 }
  
  
