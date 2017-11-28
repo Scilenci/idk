@@ -226,6 +226,8 @@ border-left: none;
  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
 
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-8/nat738.cur), progress !important;} /* End http://www.cursors-4u.com */
+
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/B1MHlaJ.png')
