@@ -226,12 +226,12 @@ font-family: "Delius Swash Caps", Arial !important;
 #lion_image {
 border-radius: 25px;
 overflow: hidden;
-border: 1px dashed #000;
+border: 1px solid #000;
 font-family: "Delius Swash Caps", Arial !important;
 }
  
 .table, .item {
-border: 1px solid #000;
+border: 1px dashed #000;
 background: #FFD4E7;
 border-collapse: separate;
 font-family: "Delius Swash Caps", Arial !important;
