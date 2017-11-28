@@ -227,9 +227,14 @@ body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img
 content: url('https://i.imgur.com/lfm685k.png')
  
 
-.name {
-position: fixed;
-bottom: 0;
-left: 0;
-}
+.scrollBox {
+background: rgba(175, 107, 61, 0.21); /* This changes the background colour. */
+overflow: auto; /* This makes the boxes scroll. */
+border: #1 TYPE #000; /* This changes the border size, type and colour. */
+width: #10; /* Width of box */
+height: #10; /* Height of box */
+padding: 5px; /* Keeps text from touching the borders. */
+margin: 5px; /* Keeps borders from touching other borders. */
+color: #000; /* Changes colour of text */
+
  
