@@ -40,7 +40,7 @@ font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida San
 /* TOPBAR */
  
 .topbar {
-background: #E15B47;
+background: url("https://i.imgur.com/8oKrzDC.jpg");
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -63,7 +63,7 @@ font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida San
 }
  
 .navbar {
-background: #E15B47;
+background: url("https://i.imgur.com/8oKrzDC.jpg");
 border-bottom: 1px solid #000;
 color: #000;
 font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
@@ -103,7 +103,7 @@ font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida San
 }
  
 .progress-bar {
-background: url("https://i.imgur.com/nxqfK1D.jpg");
+background: url("https://i.imgur.com/8oKrzDC.jpg");
 font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
  
