@@ -1,6 +1,6 @@
 
 div.box1 {
-background:rgba(175, 107, 61, 0.21);
+background:#FFD4E7;
 text-align:center;
 color:black;
 width:700px;
@@ -12,7 +12,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#FFD4E7;
 text-align:center;
 color:black;
 width:700;
