@@ -226,3 +226,10 @@ border-left: none;
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/lfm685k.png')
  
+
+.name {
+position: fixed;
+bottom: 0;
+left: 0;
+}
+ 
