@@ -1,0 +1,235 @@
+body {background: url("https://i.imgur.com/tHkAlDP.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: "Indie Flower" !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(239, 239, 242, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: "Indie Flower";
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: "Indie Flower";
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: "Indie Flower";
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: "Indie Flower";
+}
+
+.badge {
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+font-family: "Indie Flower";
+}
+ 
+.navbar {
+background: rgba(239, 239, 242, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+font-family: "Indie Flower";
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: "Indie Flower";
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #EFEFF2;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: "Indie Flower";
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(239, 239, 242, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+font-family: "Indie Flower";
+}
+ 
+.col-md-3 .panel {
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+font-family: "Indie Flower";
+}
+ 
+.progress-bar {
+background: #D1E1EE;
+font-family: "Indie Flower";
+}
+ 
+.progress {
+background: #f7f7f7;
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(239, 239, 242, 0.21);
+font-size: 11px;
+color: #000;
+font-family: "Indie Flower";
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+ 
+.userstolen {
+background: none;
+font-family: "Indie Flower";
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+
+.alert-success {
+color: #000;
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+
+.breadcrumb {
+background:  rgba(239, 239, 242, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: "Indie Flower";
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: "Indie Flower";
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: "Indie Flower";
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: "Indie Flower";
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(239, 239, 242, 0.21);
+border-collapse: separate;
+font-family: "Indie Flower";
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: "Indie Flower";
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(239, 239, 242, 0.21);
+color: #000;
+font-family: "Indie Flower";
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #EFEFF2;
+color: #000;
+font-family: "Indie Flower";
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: rgba(239, 239, 242, 0.21);
+color: #000;
+font-family: "Indie Flower";
+}
+
+/* right part inside box */
+.inner-table .right {
+background: rgba(239, 239, 242, 0.21);
+border: 1px solid #000;
+border-left: none;
+font-family: "Indie Flower";
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/QWZ9Frt.png')
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://ani.cursors-4u.net/movie/mov-2/mov140.ani), url(http://ani.cursors-4u.net/movie/mov-2/mov140.png), progress !important;} /* End http://www.cursors-4u.com */
+ 
+ /* fill in for extra info */
