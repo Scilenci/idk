@@ -6,7 +6,6 @@ color:black;
 width:700px;
 height:60px;
 border:1px dashed black;
-transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
 }
@@ -30,7 +29,6 @@ color:black;
 width:700px;
 height:60px;
 border:1px dashed black;
-transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
 }
@@ -46,6 +44,21 @@ transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
 }
+
+div.boxfloat {
+background:#FFD4E7;
+color:black;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
 
 body {background: url("https://i.imgur.com/9bYlV7z.gif") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
