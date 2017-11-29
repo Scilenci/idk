@@ -10,17 +10,7 @@ border-radius:5px;
 overflow:hidden;
 }
 
-.box1:hover {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700;
-height:255px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:auto;
-}
+
 
 div.box2 {
 background:rgba(175, 107, 61, 0.21);
@@ -34,17 +24,7 @@ border-radius:5px;
 overflow:hidden;
 }
 
-.box2:hover {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700px;
-height:255px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:auto;
-}
+
 
 div.box3 {
 background:rgba(175, 107, 61, 0.21);
@@ -58,17 +38,7 @@ border-radius:5px;
 overflow:hidden;
 }
 
-.box3:hover {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700px;
-height:255px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:auto;
-}
+
 
 div.boxfloat {
 background:rgba(190,155,123,.7);
@@ -84,7 +54,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://i.imgur.com/q84GxUP.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/hvKgwCf.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -317,7 +287,7 @@ body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img
 content: url('https://i.imgur.com/jMZkN1X.png')
 
  
- /* fill in for extra info */
+ /* dark_brown= #594a0d bown= #7a6538 tan=#e7decb  */
  
  
  /* HTML is 
