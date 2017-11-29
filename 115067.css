@@ -7,7 +7,7 @@ height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
@@ -21,7 +21,7 @@ height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
@@ -35,7 +35,7 @@ height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
@@ -159,7 +159,7 @@ font-family: Bookman;
 }
  
 .progress-bar {
-background: #AF6B3D;
+background: #594a0d;
 font-family: Bookman;
 }
  
