@@ -51,7 +51,6 @@ body {background: url("https://i.imgur.com/9bYlV7z.gif") fixed;background-repeat
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
- transition:all ease 2s;
 }
 
 h1, h3 , .sidebar h3 {
@@ -59,7 +58,6 @@ font-family: "Delius Swash Caps", Arial !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
- transition:all ease 2s;
 }
 
 /* BUTTONS */
@@ -72,7 +70,6 @@ font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
 font-family: "Delius Swash Caps", Arial !important;
-transition:all ease 2s;
 }
  
  
@@ -81,14 +78,12 @@ transition:all ease 2s;
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 /* TOPBAR */
@@ -99,14 +94,12 @@ border: 1px dashed #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .badge {
 background: #FFD4E7;
 border: 1px solid #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 /* NAVBAR */
@@ -116,7 +109,6 @@ background: rgba(255, 212, 231, 0.21);
 border: 1px dashed #000;
 box-shadow: none;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .navbar {
@@ -124,13 +116,11 @@ background: #FFD4E7;
 border-bottom: 1px dashed #000;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -139,7 +129,6 @@ background: #B5A5CD;
 border-left: 1px dashed #000;
 border-right: 1px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 } 
  
  
@@ -153,7 +142,6 @@ border-bottom: 1px dashed #000;
 border-left: 1px dashed #000;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .col-md-3 .panel {
@@ -161,20 +149,17 @@ background: #FFD4E7;
 border: 1px dashed #000;
 box-shadow: none;  
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .progress-bar {
 background: #B5A5CD;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .progress {
 background: #FFEAED;
 border: 1px solid #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -186,19 +171,16 @@ background: #FFD4E7;
 font-size: 11px;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .chatContainer {
 border: 1px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .userstolen {
 background: none;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .alert-danger {
@@ -206,7 +188,6 @@ color: #000000;
 background: #B5A5CD;
 border: 1px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .alert-success {
@@ -214,7 +195,6 @@ color: #000;
 background: #B5A5CD;
 border: 1px solid #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .breadcrumb {
@@ -222,27 +202,23 @@ background:  #FFD4E7;
 font-size: 13px;
 border: 1px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .breadcrumb>.active {
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .col-md-9 {
 background: none;
 border: 0px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 /* TABLES */
@@ -252,7 +228,6 @@ border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
  
 .table, .item {
@@ -260,14 +235,12 @@ border: 1px dashed #000;
 background: #FFD4E7;
 border-collapse: separate;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px dashed #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 /* top and bottom of boxes */
@@ -276,7 +249,6 @@ border: 0px dashed #000;
 background: #FFD4E7;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 /* cave and mound boxes */
@@ -285,7 +257,6 @@ border: 1px dashed #000;
 background: #FFD4E7;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 /* left part inside box */
@@ -294,7 +265,6 @@ border: 1px solid #000;
 background: #B5A5CD;
 color: #000;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 /* right part inside box */
@@ -303,7 +273,6 @@ background: #FFEAED;
 border: 1px solid #000;
 border-left: none;
 font-family: "Delius Swash Caps", Arial !important;
- transition:all ease 2s;
 }
 
 /* logo */
