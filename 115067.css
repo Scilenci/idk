@@ -1,5 +1,5 @@
 div.box1 {
-background:#8E5730;
+background:#714628;
 text-align:center;
 color:black;
 width:700px;
@@ -13,7 +13,7 @@ overflow:auto;
 
 
 div.box2 {
-background:#8E5730;
+background:#714628;
 text-align:center;
 color:black;
 width:700px;
@@ -27,7 +27,7 @@ overflow:auto;
 
 
 div.box3 {
-background:#8E5730;
+background:#714628;
 text-align:center;
 color:black;
 width:700px;
@@ -41,7 +41,7 @@ overflow:auto;
 
 
 div.boxfloat {
-background:#8E5730;
+background:#714628;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -69,7 +69,7 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #8E5730;
+background: #714628;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -104,7 +104,7 @@ font-family: Bookman;
 }
 
 .badge {
-background: #8E5730;
+background: #714628;
 border: 1px solid #000;
 font-family: Bookman;
 }
@@ -119,7 +119,7 @@ font-family: Bookman;
 }
  
 .navbar {
-background: #8E5730;
+background: #714628;
 border-bottom: 1px solid #000;
 color: #000;
 font-family: Bookman;
@@ -152,7 +152,7 @@ font-family: Bookman;
 }
  
 .col-md-3 .panel {
-background: #8E5730;
+background: #714628;
 border: 1px solid #000;
 box-shadow: none;  
 font-family: Bookman;
@@ -174,7 +174,7 @@ font-family: Bookman;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #8E5730;
+background: #714628;
 font-size: 11px;
 color: #000;
 font-family: Bookman;
@@ -205,7 +205,7 @@ font-family: Bookman;
 }
 
 .breadcrumb {
-background:  #8E5730;
+background:  #714628;
 font-size: 13px;
 border: 1px solid #000;
 font-family: Bookman;
@@ -239,7 +239,7 @@ font-family: Bookman;
  
 .table, .item {
 border: 1px solid #000;
-background: #8E5730;
+background: #714628;
 border-collapse: separate;
 font-family: Bookman;
 }
@@ -261,7 +261,7 @@ font-family: Bookman;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #8E5730;
+background: #714628;
 color: #000;
 font-family: Bookman;
 }
@@ -287,7 +287,7 @@ body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img
 content: url('https://i.imgur.com/5KMnYTW.png')
 
  
- /* dark_brown= #5f3b21 bown= #8E5730 tan=#e7decb  */
+ /* dark_brown= #5f3b21 bown= #714628 tan=#e7decb  */
  
  
  /* HTML is 
