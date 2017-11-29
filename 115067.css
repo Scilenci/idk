@@ -96,7 +96,7 @@ font-family: Bookman;
 /* TOPBAR */
  
 .topbar {
-background: #7a6538;
+background: #574828;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -159,7 +159,7 @@ font-family: Bookman;
 }
  
 .progress-bar {
-background: #594a0d;
+background: #574828;
 font-family: Bookman;
 }
  
@@ -192,14 +192,14 @@ font-family: Bookman;
 
 .alert-danger {
 color: #000000;
-background: #594a0d;
+background: #574828;
 border: 1px solid #000;
 font-family: Bookman;
 }
 
 .alert-success {
 color: #000;
-background: #594a0d;
+background: #574828;
 border: 1px solid #000;
 font-family: Bookman;
 }
@@ -253,7 +253,7 @@ font-family: Bookman;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #7a6538;
+background: #574828;
 color: #000;
 font-family: Bookman;
 }
@@ -269,7 +269,7 @@ font-family: Bookman;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: #594a0d;
+background: #574828;
 color: #000;
 font-family: Bookman;
 }
@@ -287,7 +287,7 @@ body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img
 content: url('https://i.imgur.com/jMZkN1X.png')
 
  
- /* dark_brown= #594a0d bown= #7a6538 tan=#e7decb  */
+ /* dark_brown= #574828 bown= #7a6538 tan=#e7decb  */
  
  
  /* HTML is 
