@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(175, 107, 61, 0.21);
+background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
@@ -13,7 +13,7 @@ overflow:hidden;
 
 
 div.box2 {
-background:rgba(175, 107, 61, 0.21);
+background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
@@ -27,7 +27,7 @@ overflow:hidden;
 
 
 div.box3 {
-background:rgba(175, 107, 61, 0.21);
+background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
@@ -41,7 +41,7 @@ overflow:hidden;
 
 
 div.boxfloat {
-background:rgba(190,155,123,.7);
+background:#7a6538;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -69,7 +69,7 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -96,7 +96,7 @@ color: #000000;
 /* TOPBAR */
  
 .topbar {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -104,7 +104,7 @@ border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -112,14 +112,14 @@ border: 1px solid #000;
 /* NAVBAR */
  
 .main {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(122, 101, 56, 0.21);
 border: 1px solid #000;
 box-shadow: none;
  font-family: Arial;
 }
  
 .navbar {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 border-bottom: 1px solid #000;
 color: #000;
  font-family: Arial;
@@ -132,7 +132,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #AF6B3D;
+background: #594a0d;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -143,7 +143,7 @@ border-right: 1px solid #000;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(122, 101, 56, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -152,7 +152,7 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Arial;
@@ -164,7 +164,7 @@ background: #AF6B3D;
 }
  
 .progress {
-background: #f7f7f7;
+background: #e7decb;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
@@ -174,7 +174,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 font-size: 11px;
 color: #000;
  font-family: Arial;
@@ -192,20 +192,20 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: rgba(175, 107, 61, 0.21);
+background: #594a0d;
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
 color: #000;
-background: rgba(175, 107, 61, 0.21);
+background: #594a0d;
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .breadcrumb {
-background:  rgba(175, 107, 61, 0.21);
+background:  #7a6538;
 font-size: 13px;
 border: 1px solid #000;
  font-family: Arial;
@@ -239,7 +239,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 border-collapse: separate;
  font-family: Arial;
 }
@@ -253,7 +253,7 @@ border: 0px solid #000;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #7a6538;
 color: #000;
  font-family: Arial;
 }
@@ -261,7 +261,7 @@ color: #000;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #AF6B3D;
+background: #7a6538;
 color: #000;
  font-family: Arial;
 }
@@ -269,14 +269,14 @@ color: #000;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #594a0d;
 color: #000;
  font-family: Arial;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(175, 107, 61, 0.21);
+background: #e7decb;
 border: 1px solid #000;
 border-left: none;
  font-family: Arial;
