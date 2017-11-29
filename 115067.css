@@ -3,7 +3,7 @@ background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
-height:60px;
+height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
@@ -17,7 +17,7 @@ background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
-height:60px;
+height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
@@ -31,7 +31,7 @@ background:#7a6538;
 text-align:center;
 color:black;
 width:700px;
-height:60px;
+height:100px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
@@ -61,7 +61,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: Bookman !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -76,7 +76,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+font-family: Bookman;
 }
  
  
@@ -84,13 +84,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 /* TOPBAR */
@@ -100,13 +100,13 @@ background: #7a6538;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .badge {
 background: #7a6538;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 /* NAVBAR */
@@ -115,19 +115,19 @@ border: 1px solid #000;
 background: rgba(122, 101, 56, 0.21);
 border: 1px solid #000;
 box-shadow: none;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .navbar {
 background: #7a6538;
 border-bottom: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -135,7 +135,7 @@ color: #000;
 background: #594a0d;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Bookman;
 } 
  
  
@@ -148,25 +148,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .col-md-3 .panel {
 background: #7a6538;
 border: 1px solid #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: Bookman;
 }
  
 .progress-bar {
 background: #AF6B3D;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .progress {
 background: #e7decb;
 border: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Bookman;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -177,55 +177,55 @@ border: 1px solid #000;
 background: #7a6538;
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .alert-danger {
 color: #000000;
 background: #594a0d;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .alert-success {
 color: #000;
 background: #594a0d;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .breadcrumb {
 background:  #7a6538;
 font-size: 13px;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 /* TABLES */
@@ -234,20 +234,20 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: #7a6538;
 border-collapse: separate;
- font-family: Arial;
+font-family: Bookman;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 /* top and bottom of boxes */
@@ -255,7 +255,7 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px solid #000;
 background: #7a6538;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 /* cave and mound boxes */
@@ -263,7 +263,7 @@ color: #000;
 border: 1px solid #000;
 background: #7a6538;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 /* left part inside box */
@@ -271,7 +271,7 @@ color: #000;
 border: 1px solid #000;
 background: #594a0d;
 color: #000;
- font-family: Arial;
+font-family: Bookman;
 }
 
 /* right part inside box */
@@ -279,7 +279,7 @@ color: #000;
 background: #e7decb;
 border: 1px solid #000;
 border-left: none;
- font-family: Arial;
+font-family: Bookman;
 }
 
 /* logo */
