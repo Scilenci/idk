@@ -50,7 +50,7 @@ overflow:auto;
 div.boxfloat {
 background:#FFD4E7;
 color:black;
-border:1px solid black;
+border:1px dashed black;
 position:fixed;
 text-align:center;
 border-radius:5px;
