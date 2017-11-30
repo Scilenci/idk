@@ -106,7 +106,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
  
@@ -114,13 +114,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 /* TOPBAR */
@@ -130,13 +130,13 @@ background: #637A4C;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .badge {
 background: #6a4016;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 /* NAVBAR */
@@ -145,19 +145,19 @@ border: 1px solid #000;
 background: rgba(106, 64, 22, 0.21);
 border: 1px solid #000;
 box-shadow: none;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .navbar {
 background: #6a4016;
 border-bottom: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -165,7 +165,7 @@ color: #000;
 background: #637A4C;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 } 
  
  
@@ -178,25 +178,25 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .col-md-3 .panel {
 background: #6a4016;
 border: 1px solid #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .progress-bar {
 background: #637A4C;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .progress {
 background: #F8D5B5;
 border: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -207,55 +207,55 @@ border: 1px solid #000;
 background: #6a4016;
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .alert-danger {
 color: #000000;
 background: #637A4C;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .alert-success {
 color: #000;
 background: #637A4C;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .breadcrumb {
 background:  #6a4016;
 font-size: 13px;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 /* TABLES */
@@ -264,20 +264,20 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: #6a4016;
 border-collapse: separate;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 /* top and bottom of boxes */
@@ -285,7 +285,7 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px solid #000;
 background: #637A4C;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 /* cave and mound boxes */
@@ -293,7 +293,7 @@ color: #000;
 border: 1px solid #000;
 background: #6a4016;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 /* left part inside box */
@@ -301,7 +301,7 @@ color: #000;
 border: 1px solid #000;
 background: #637A4C;
 color: #000;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 /* right part inside box */
@@ -309,7 +309,7 @@ color: #000;
 background: #F8D5B5;
 border: 1px solid #000;
 border-left: none;
- font-family: Arial;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }
 
 /* logo */
