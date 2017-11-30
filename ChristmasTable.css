@@ -1,5 +1,5 @@
 div.box1 {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#A46B3;
+background:#9B5D20;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#A46B3;
+background:#9B5D20;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -134,7 +134,7 @@ border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: #A46B3;
+background: #9B5D20;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -149,7 +149,7 @@ box-shadow: none;
 }
  
 .navbar {
-background: #A46B3;
+background: #9B5D20;
 border-bottom: 1px solid #000;
 color: #000;
  font-family: Arial;
@@ -182,7 +182,7 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: #A46B3;
+background: #9B5D20;
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Arial;
@@ -204,7 +204,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #A46B3;
+background: #9B5D20;
 font-size: 11px;
 color: #000;
  font-family: Arial;
@@ -235,7 +235,7 @@ border: 1px solid #000;
 }
 
 .breadcrumb {
-background:  #A46B3;
+background:  #9B5D20;
 font-size: 13px;
 border: 1px solid #000;
  font-family: Arial;
@@ -269,7 +269,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: #A46B3;
+background: #9B5D20;
 border-collapse: separate;
  font-family: Arial;
 }
@@ -291,7 +291,7 @@ color: #000;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #A46B3;
+background: #9B5D20;
 color: #000;
  font-family: Arial;
 }
@@ -323,7 +323,7 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #A46B3;
+background-color: #9B5D20;
 }
   
 /* The thingy that moves */
