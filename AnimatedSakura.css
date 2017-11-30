@@ -295,7 +295,24 @@ font-family: "Delius Swash Caps", Arial !important;
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
-content: url('https://i.imgur.com/xStmg5T.png')
+ content: url('https://i.imgur.com/xStmg5T.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #FFD4E7;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #B5A5CD;
+border-radius: 0px;
+border: none;
+}
 
  
  /* light_pink=#FFD4E7 pale_purple=#B5A5CD off_white=#FFEAED  */
