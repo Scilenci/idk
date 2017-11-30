@@ -1,5 +1,5 @@
 div.box1 {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#9B5D20;
+background:#6a4016;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#9B5D20;
+background:#6a4016;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -134,7 +134,7 @@ border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: #9B5D20;
+background: #6a4016;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -142,14 +142,14 @@ border: 1px solid #000;
 /* NAVBAR */
  
 .main {
-background: rgba(164, 107, 3, 0.21);
+background: rgba(106, 64, 22, 0.21);
 border: 1px solid #000;
 box-shadow: none;
  font-family: Arial;
 }
  
 .navbar {
-background: #9B5D20;
+background: #6a4016;
 border-bottom: 1px solid #000;
 color: #000;
  font-family: Arial;
@@ -173,7 +173,7 @@ border-right: 1px solid #000;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(164, 107, 3, 0.21);
+background: rgba(106, 64, 22, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -182,7 +182,7 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: #9B5D20;
+background: #6a4016;
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Arial;
@@ -204,7 +204,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #9B5D20;
+background: #6a4016;
 font-size: 11px;
 color: #000;
  font-family: Arial;
@@ -235,7 +235,7 @@ border: 1px solid #000;
 }
 
 .breadcrumb {
-background:  #9B5D20;
+background:  #6a4016;
 font-size: 13px;
 border: 1px solid #000;
  font-family: Arial;
@@ -269,7 +269,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: #9B5D20;
+background: #6a4016;
 border-collapse: separate;
  font-family: Arial;
 }
@@ -291,7 +291,7 @@ color: #000;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #9B5D20;
+background: #6a4016;
 color: #000;
  font-family: Arial;
 }
@@ -323,7 +323,7 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #9B5D20;
+background-color: #6a4016;
 }
   
 /* The thingy that moves */
