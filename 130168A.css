@@ -99,7 +99,7 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #da0b0b;
+background: #b31919;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -126,7 +126,7 @@ color: #000000;
 /* TOPBAR */
  
 .topbar {
-background: #da0b0b;
+background: #b31919;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -162,7 +162,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #da0b0b;
+background: #b31919;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -189,7 +189,7 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #da0b0b;
+background: #b31919;
  font-family: Arial;
 }
  
@@ -204,7 +204,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #4d4d4d;
+background: #b31919;
 font-size: 11px;
 color: #000;
  font-family: Arial;
@@ -222,14 +222,14 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: #da0b0b;
+background: #b31919;
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
 color: #000;
-background: #da0b0b;
+background: #b31919;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -283,7 +283,7 @@ border: 0px solid #000;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #da0b0b;
+background: #b31919;
 color: #000;
  font-family: Arial;
 }
@@ -299,7 +299,7 @@ color: #000;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: #da0b0b;
+background: #b31919;
 color: #000;
  font-family: Arial;
 }
@@ -314,7 +314,7 @@ border-left: none;
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/jMZkN1X.png')}
+ content: url('https://i.imgur.com/M6ewTbl.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
@@ -328,7 +328,7 @@ background-color: #4d4d4d;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #da0b0b;
+background-color:  #b31919;
 border-radius: 0px;
 border: none;
 }
