@@ -162,7 +162,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #A6FFFF;
+background: #c2e5e5;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -189,7 +189,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .progress-bar {
-background: #A6FFFF;
+background: #c2e5e5;
  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
  
@@ -222,14 +222,14 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 
 .alert-danger {
 color: #000000;
-background: #A6FFFF;
+background: #c2e5e5;
 border: 1px solid #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
 .alert-success {
 color: #000;
-background: #A6FFFF;
+background: #c2e5e5;
 border: 1px solid #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -299,7 +299,7 @@ color: #000;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: #A6FFFF;
+background: #c2e5e5;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
