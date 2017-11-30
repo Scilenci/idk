@@ -315,7 +315,24 @@ border-left: none;
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
-content: url('https://i.imgur.com/jMZkN1X.png')
+ content: url('https://i.imgur.com/jMZkN1X.png')}
+
+/* scrollbar */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #8d8f8e;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  rgb(39, 51, 55);
+border-radius: 0px;
+border: none;
+}
 
  
  /* fill in for extra info */
