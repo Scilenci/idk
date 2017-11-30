@@ -84,7 +84,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("http://99pcwallpapers.com/wp-content/uploads/Roaring-lion-beautiful-images-desktop-fullscreen-wallpapers.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/q58mPIS.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -126,7 +126,7 @@ color: #000000;
 /* TOPBAR */
  
 .topbar {
-background: r#637A4C;
+background: #637A4C;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
