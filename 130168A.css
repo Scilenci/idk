@@ -99,7 +99,7 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #e60000;
+background: #da0b0b;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -126,7 +126,7 @@ color: #000000;
 /* TOPBAR */
  
 .topbar {
-background: #e60000;
+background: #da0b0b;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -162,7 +162,7 @@ color: #000;
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #e60000;
+background: #da0b0b;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -189,7 +189,7 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #e60000;
+background: #da0b0b;
  font-family: Arial;
 }
  
@@ -222,14 +222,14 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: #e60000;
+background: #da0b0b;
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
 color: #000;
-background: #e60000;
+background: #da0b0b;
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -283,7 +283,7 @@ border: 0px solid #000;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #e60000;
+background: #da0b0b;
 color: #000;
  font-family: Arial;
 }
@@ -299,7 +299,7 @@ color: #000;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: #e60000;
+background: #da0b0b;
 color: #000;
  font-family: Arial;
 }
@@ -328,7 +328,7 @@ background-color: #4d4d4d;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #e60000;
+background-color:  #da0b0b;
 border-radius: 0px;
 border: none;
 }
