@@ -333,6 +333,12 @@ border-radius: 0px;
 border: none;
 }
 
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
  
  /* main_color= #786ead  */
  
