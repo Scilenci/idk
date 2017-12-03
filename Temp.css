@@ -334,6 +334,13 @@ border-radius: 0px;
 border: none;
 }
 
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
  
  /* fill in for extra info */
  
