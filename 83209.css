@@ -8,6 +8,7 @@ border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
+ display: inline-block;
 }
 
 
@@ -22,6 +23,7 @@ border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
+ display: inline-block;
 }
 
 
@@ -35,6 +37,7 @@ border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
+ display: inline-block;
 }
 
 
