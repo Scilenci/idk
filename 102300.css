@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#CDC4B6;
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:rgba(190,155,123,.7);
+background:#CDC4B6;
 color:black;
 border:1px solid black;
 position:fixed;
