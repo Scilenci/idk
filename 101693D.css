@@ -126,7 +126,7 @@ color: #000000;
 /* TOPBAR */
  
 .topbar {
-background: #E2566C;
+background: #BF4361;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -283,7 +283,7 @@ border: 0px solid #000;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #E2566C;
+background: #BF4361;
 color: #000;
  font-family: Arial;
 }
