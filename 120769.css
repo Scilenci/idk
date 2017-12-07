@@ -105,7 +105,7 @@ color: #000;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
-font-size: 14px;
+font-size: 20px;
 border-radius: 5px;
 font-family: 'Dancing Script', Arial, cursive;
 }
@@ -115,12 +115,14 @@ font-family: 'Dancing Script', Arial, cursive;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -131,12 +133,14 @@ background: #BE7261;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
 .badge {
 background: #948373;
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -146,6 +150,7 @@ font-family: 'Dancing Script', Arial, cursive;
 background: rgba(148, 131, 115, 0.21);
 border: 1px solid #000;
 box-shadow: none;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -153,11 +158,13 @@ font-family: 'Dancing Script', Arial, cursive;
 background: #948373;
 border-bottom: 1px solid #000;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -166,6 +173,7 @@ color: #000;
 background: #BE7261;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 } 
  
@@ -179,6 +187,7 @@ border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -186,17 +195,20 @@ font-family: 'Dancing Script', Arial, cursive;
 background: #948373;
 border: 1px solid #000;
 box-shadow: none;  
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .progress-bar {
 background: #BE7261;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .progress {
 background: #DEDEDF;
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 /* text on progress bars */
@@ -208,16 +220,19 @@ font-family: 'Dancing Script', Arial, cursive;
 background: #948373;
 font-size: 11px;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
 .chatContainer {
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .userstolen {
 background: none;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -225,6 +240,7 @@ font-family: 'Dancing Script', Arial, cursive;
 color: #000000;
 background: #BE7261;
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -232,30 +248,34 @@ font-family: 'Dancing Script', Arial, cursive;
 color: #000;
 background: #BE7261;
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
 .breadcrumb {
 background:  #948373;
-font-size: 13px;
+font-size: 20px;
 border: 1px solid #000;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .breadcrumb>.active {
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -265,6 +285,7 @@ font-family: 'Dancing Script', Arial, cursive;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
  
@@ -272,12 +293,14 @@ font-family: 'Dancing Script', Arial, cursive;
 border: 1px solid #000;
 background: #948373;
 border-collapse: separate;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -286,6 +309,7 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px solid #000;
 background: #BE7261;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -294,6 +318,7 @@ font-family: 'Dancing Script', Arial, cursive;
 border: 1px solid #000;
 background: #948373;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -302,6 +327,7 @@ font-family: 'Dancing Script', Arial, cursive;
 border: 1px solid #000;
 background: #BE7261;
 color: #000;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
@@ -310,6 +336,7 @@ font-family: 'Dancing Script', Arial, cursive;
 background: #DEDEDF;
 border: 1px solid #000;
 border-left: none;
+ font-size: 20px;
 font-family: 'Dancing Script', Arial, cursive;
 }
 
