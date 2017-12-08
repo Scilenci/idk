@@ -1,41 +1,19 @@
 div.box1 {
-background:rgba(175, 107, 61, 0.21);
+background:#566a6c;
 text-align:center;
 color:black;
 width:700px;
-height:60px;
+height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
 }
 
-.box1:hover {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700;
-height:255px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:auto;
-}
+
 
 div.box2 {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700px;
-height:60px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:hidden;
-}
-
-.box2:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#566a6c;
 text-align:center;
 color:black;
 width:700px;
@@ -43,23 +21,13 @@ height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:auto;
+overflow:hidden;
 }
+
+
 
 div.box3 {
-background:rgba(175, 107, 61, 0.21);
-text-align:center;
-color:black;
-width:700px;
-height:60px;
-border:1px solid black;
-transition:all ease 2s;
-border-radius:5px;
-overflow:hidden;
-}
-
-.box3:hover {
-background:rgba(175, 107, 61, 0.21);
+background:#566a6c;
 text-align:center;
 color:black;
 width:700px;
@@ -67,11 +35,13 @@ height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:auto;
+overflow:hidden;
 }
 
+
+
 div.boxfloat {
-background:rgba(190,155,123,.7);
+background:#566a6c;
 color:black;
 border:1px solid black;
 position:fixed;
@@ -84,14 +54,14 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://thumbs.gfycat.com/WellwornWatchfulAlbatross-size_restricted.gif") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/hjiIoCh.gif") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: "Delius Swash Caps", Arial !important;
 text-align: left;
 color: #000;
 border-bottom: 1px solid #000;
@@ -99,14 +69,14 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
  
@@ -114,58 +84,58 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 /* TOPBAR */
  
 .topbar {
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .badge {
-background: rgba(175, 107, 61, 0.21);
+background: #566a6c;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 /* NAVBAR */
  
 .main {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(86, 106, 108, 0.21);
 border: 1px solid #000;
 box-shadow: none;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .navbar {
-background: rgba(175, 107, 61, 0.21);
+background: #566a6c;
 border-bottom: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #AF6B3D;
+background: #587F56;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: "Delius Swash Caps", Arial !important;
 } 
  
  
@@ -173,30 +143,30 @@ border-right: 1px solid #000;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(86, 106, 108, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .col-md-3 .panel {
-background: rgba(175, 107, 61, 0.21);
+background: #566a6c;
 border: 1px solid #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .progress-bar {
-background: #AF6B3D;
- font-family: Arial;
+background: #587F56;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .progress {
-background: #f7f7f7;
+background: #eff5ef;
 border: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: "Delius Swash Caps", Arial !important;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -204,58 +174,58 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(175, 107, 61, 0.21);
+background: #566a6c;
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .alert-danger {
 color: #000000;
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .alert-success {
 color: #000;
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .breadcrumb {
-background:  rgba(175, 107, 61, 0.21);
+background:  #566a6c;
 font-size: 13px;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 /* TABLES */
@@ -264,57 +234,57 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #566a6c;
 border-collapse: separate;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #AF6B3D;
+background: #566a6c;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: #587F56;
 color: #000;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(175, 107, 61, 0.21);
+background: #eff5ef;
 border: 1px solid #000;
 border-left: none;
- font-family: Arial;
+font-family: "Delius Swash Caps", Arial !important;
 }
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/jMZkN1X.png')}
+ content: url('https://i.imgur.com/O8W470E.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
@@ -323,12 +293,12 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #8d8f8e;
+background-color: #566a6c;
 }
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  rgb(39, 51, 55);
+background-color:  #587F56;
 border-radius: 0px;
 border: none;
 }
@@ -341,7 +311,7 @@ input[tpye="text"] {color:black!important;}
 select {color:black!important;}
 
  
- /* fill in for extra info */
+ /* 1=#566a6c 2=#587F56 3=#eff5ef */
  
  
  /* HTML is 
