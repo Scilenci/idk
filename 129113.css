@@ -55,7 +55,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://i.imgur.com/UMf8tNA.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/heZT6KM.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -285,7 +285,7 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/TwHZ6of.png')}
+ content: url('https://i.imgur.com/qDpGWpE.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
