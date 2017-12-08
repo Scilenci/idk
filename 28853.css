@@ -7,7 +7,7 @@ height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
@@ -21,7 +21,7 @@ height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
@@ -35,7 +35,7 @@ height:255px;
 border:1px solid black;
 transition:all ease 2s;
 border-radius:5px;
-overflow:hidden;
+overflow:auto;
 }
 
 
