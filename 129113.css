@@ -1,0 +1,331 @@
+div.box1 {
+background:rgba(157, 181, 226, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:200px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+
+
+
+div.box2 {
+background:rgba(157, 181, 226, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:200px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+
+
+div.box3 {
+background:rgba(157, 181, 226, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:200px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+
+
+div.boxfloat {
+background:rgba(157, 181, 226, 0.21);
+color:black;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+body {background: url("https://i.imgur.com/UMf8tNA.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(157, 181, 226, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.badge {
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.navbar {
+background: rgba(157, 181, 226, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: rgba(157, 181, 226, 0.21);
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(157, 181, 226, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.col-md-3 .panel {
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.progress-bar {
+background: #254174;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.progress {
+background: #ebf0f9;
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(157, 181, 226, 0.21);
+font-size: 11px;
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.userstolen {
+background: none;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.alert-success {
+color: #000;
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.breadcrumb {
+background: rgba(157, 181, 226, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(157, 181, 226, 0.21);
+border-collapse: separate;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(157, 181, 226, 0.21);
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #31569b;
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: rgba(157, 181, 226, 0.21);
+color: #000;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: rgba(157, 181, 226, 0.21);
+border: 1px solid #000;
+border-left: none;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/TwHZ6of.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #31569b;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #254174;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* 1=#31569b 2=#254174 3=#ebf0f9 */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
