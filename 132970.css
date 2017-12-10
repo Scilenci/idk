@@ -323,12 +323,12 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #333333;
+background-color: #462220;
 }
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #462220;
+background-color:  #572c28;
 border-radius: 0px;
 border: none;
 }
