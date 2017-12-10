@@ -1,5 +1,5 @@
 div.box1 {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#0a0001;
+background:#462220;
 text-align:center;
 color:#DAA520;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#0a0001;
+background:#462220;
 color:#DAA520;
 border:1px solid #DAA520;
 position:fixed;
@@ -126,7 +126,7 @@ color: #DAA520;
 /* TOPBAR */
  
 .topbar {
-background: #0a0001;
+background: #462220;
 border: 1px solid #DAA520;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -134,7 +134,7 @@ border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: #0a0001;
+background: #462220;
 border: 1px solid #DAA520;
  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
@@ -149,7 +149,7 @@ box-shadow: none;
 }
  
 .navbar {
-background: #0a0001;
+background: #462220;
 border-bottom: 1px solid #DAA520;
 color: #DAA520;
  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -182,7 +182,7 @@ color: #DAA520;
 }
  
 .col-md-3 .panel {
-background: #0a0001;
+background: #462220;
 border: 1px solid #DAA520;
 box-shadow: none;  
  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -204,7 +204,7 @@ border: 1px solid #DAA520;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #0a0001;
+background: #462220;
 font-size: 11px;
 color: #DAA520;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -222,20 +222,20 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
 
 .alert-danger {
 color: #DAA520;
-background: #0a0001;
+background: #462220;
 border: 1px solid #DAA520;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .alert-success {
 color: #000;
-background: #0a0001);
+background: #462220);
 border: 1px solid #DAA520;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .breadcrumb {
-background:  #0a0001;
+background:  #462220;
 font-size: 13px;
 border: 1px solid #DAA520;
  font-family: Arial;
@@ -269,7 +269,7 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
  
 .table, .item {
 border: 1px solid #DAA520;
-background: #0a0001;
+background: #462220;
 border-collapse: separate;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
@@ -283,7 +283,7 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #DAA520;
-background: #0a0001;
+background: #462220;
 color: #DAA520;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
@@ -291,7 +291,7 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #DAA520;
-background: #0a0001;
+background: #462220;
 color: #DAA520;
 font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
@@ -328,7 +328,7 @@ background-color: #333333;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #0a0001;
+background-color:  #462220;
 border-radius: 0px;
 border: none;
 }
