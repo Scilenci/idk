@@ -142,7 +142,7 @@ border: 1px solid #000;
 /* NAVBAR */
  
 .main {
-background: rgba(102, 120, 191, 0.21);
+background: rgba(102, 120, 191, 0.4);
 border: 1px solid #000;
 box-shadow: none;
 font-family: 'Vollkorn SC', TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
@@ -173,7 +173,7 @@ font-family: 'Vollkorn SC', TimesNewRoman, "Times New Roman", Times, Baskerville
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(102, 120, 191, 0.21);
+background: rgba(102, 120, 191, 0.4);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
