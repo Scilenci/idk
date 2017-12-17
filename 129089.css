@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:rgba(8, 170, 78, 0.4);
+background:rgba(7, 67, 95, 0.4);
 color:black;
 border:1px solid black;
 position:fixed;
@@ -99,12 +99,12 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
-font-size: 14px;
+font-size: 20px;
 border-radius: 5px;
 font-family: 'Amatic SC', Arial, cursive;
 }
@@ -115,49 +115,56 @@ font-family: 'Amatic SC', Arial, cursive;
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
  font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
 color: #000000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 /* TOPBAR */
  
 .topbar {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 .badge {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 /* NAVBAR */
  
 .main {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 box-shadow: none;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .navbar {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border-bottom: 1px solid #000;
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -166,6 +173,7 @@ background: #067a38;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 } 
  
  
@@ -173,30 +181,34 @@ font-family: 'Amatic SC', Arial, cursive;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .col-md-3 .panel {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 box-shadow: none;  
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .progress-bar {
 background: #067a38;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .progress {
 background: #e7fef1;
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -204,8 +216,8 @@ font-family: 'Amatic SC', Arial, cursive;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(8, 170, 78, 0.4);
-font-size: 11px;
+background: rgba(7, 67, 95, 0.4);
+font-size: 20px;
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
 }
@@ -213,49 +225,57 @@ font-family: 'Amatic SC', Arial, cursive;
 .chatContainer {
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .userstolen {
 background: none;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 .alert-danger {
 color: #000000;
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 .alert-success {
 color: #000;
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 .breadcrumb {
-background:  rgba(8, 170, 78, 0.4);
+background:  rgba(7, 67, 95, 0.4);
 font-size: 13px;
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .breadcrumb>.active {
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .col-md-9 {
 background: none;
 border: 0px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 /* TABLES */
@@ -265,27 +285,31 @@ border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border-collapse: separate;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 /* cave and mound boxes */
@@ -294,22 +318,25 @@ border: 1px solid #000;
 background: #067a38;
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 color: #000;
 font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(8, 170, 78, 0.4);
+background: rgba(7, 67, 95, 0.4);
 border: 1px solid #000;
 border-left: none;
  font-family: 'Amatic SC', Arial, cursive;
+ font-size: 20px;
 }
 
 /* logo */
