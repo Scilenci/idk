@@ -207,11 +207,11 @@ font-family: 'Amatic SC', Arial, cursive;
 .progress {
 background: #e7fef1;
 border: 1px solid #000;
-font-family: 'Amatic SC', Arial, cursive;
+font-family: Arial, cursive;
  font-size: 20px;
 }
 /* text on progress bars */
-.progress div {color: #000; font-size: 20px;}
+.progress div {color: #000;}
  
 /* CHAT */
  
