@@ -1,0 +1,361 @@
+div.box1 {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:rgba(146, 48, 89, 0.21);
+text-align:center;
+color:black;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:rgba(146, 48, 89,.7);
+color:black;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+body {background: url("https://i.imgur.com/SwHKNLL.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(146, 48, 89, 0.21);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.badge {
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.navbar {
+background: rgba(146, 48, 89, 0.21);
+border-bottom: 1px solid #000;
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #923059;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(146, 48, 89, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.col-md-3 .panel {
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+box-shadow: none;  
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.progress-bar {
+background: #923059;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.progress {
+background: #f7f7f7;
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(146, 48, 89, 0.21);
+font-size: 11px;
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.userstolen {
+background: none;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.alert-success {
+color: #000;
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.breadcrumb {
+background:  rgba(146, 48, 89, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(146, 48, 89, 0.21);
+border-collapse: separate;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(146, 48, 89, 0.21);
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #923059;
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: rgba(146, 48, 89, 0.21);
+color: #000;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: rgba(146, 48, 89, 0.21);
+border: 1px solid #000;
+border-left: none;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://imgur.com/js7pZ8S')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #923059;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  rgb(146, 48, 89);
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ /* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-8/nat733.cur), progress !important;} /* End http://www.cursors-4u.com */
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
