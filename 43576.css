@@ -1,3 +1,89 @@
+div.box1 {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:rgba(227, 146, 133, 0.21);
+text-align:center;
+color:#ffe9cc;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:rgba(227, 146, 133,.7);
+color:#ffe9cc;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
 body {background: url("https://i.imgur.com/9n764Md.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #ffe9cc;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
