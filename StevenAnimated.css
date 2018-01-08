@@ -8,7 +8,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
-box-shadow:10px 10px 10px grey;
 }
 
 .box1:hover {
@@ -21,7 +20,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
-box-shadow:10px 10px 10px grey;
 }
 
 div.box2 {
@@ -34,7 +32,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
-box-shadow:10px 10px 10px grey;
 }
 
 .box2:hover {
@@ -47,7 +44,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
-box-shadow:10px 10px 10px grey;
 }
 
 div.box3 {
@@ -60,7 +56,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
-box-shadow:10px 10px 10px grey;
 }
 
 .box3:hover {
@@ -73,7 +68,6 @@ border:1px dotted #FFE6DF;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
-box-shadow:10px 10px 10px grey;
 }
 
 div.boxfloat {
@@ -88,7 +82,6 @@ bottom:0px;
 width:165px;
 height:200px;
 overflow:auto;
-box-shadow:10px 10px 10px grey;
 }
 
 body {background: url("https://i.imgur.com/hLIB7JJ.gif") fixed;background-repeat: no-repeat;background-size: cover;color: ##FFE6DF;}
@@ -138,7 +131,6 @@ border: 1px dotted #FFE6DF;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
  font-family: Arial;
- box-shadow:10px 10px 10px grey;
 }
 
 .badge {
@@ -192,7 +184,6 @@ color: #FFE6DF;
 .col-md-3 .panel {
 background: #D17F8E;
 border:1px dotted #FFE6DF;
-box-shadow:10px 10px 10px grey; 
  font-family: Arial;
 }
  
@@ -233,7 +224,6 @@ color: #FFE6DF;
 background: #B57685;
 border: 1px dotted #FFE6DF;
  font-family: Arial;
- box-shadow:10px 10px 10px grey;
 }
 
 .alert-success {
@@ -241,7 +231,6 @@ color: #FFE6DF;
 background: #F99BAB;
 border: 1px dotted #FFE6DF;
  font-family: Arial;
- box-shadow:10px 10px 10px grey;
 }
 
 .breadcrumb {
@@ -282,7 +271,6 @@ border: 1px dotted #FFE6DF;
 background: #D17F8E;
 border-collapse: separate;
  font-family: Arial;
- box-shadow:10px 10px 10px grey;
 }
 
 .table .right, .table .right_odd {
@@ -305,7 +293,6 @@ border: 1px dotted #FFE6DF;
 background: #D17F8E;
 color: #FFE6DF;
  font-family: Arial;
- box-shadow:10px 10px 10px grey;
 }
 
 /* left part inside box */
