@@ -55,7 +55,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://i.warosu.org/data/lit/img/0091/89/1489147566276.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.warosu.org/data/lit/img/0091/89/1489147566276.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;  font-size: 20px;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -186,6 +186,7 @@ font-family: 'Dancing Script', Arial, cursive;
 .chatContainer {
 border: 1px solid #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
  
 .userstolen {
@@ -239,6 +240,7 @@ border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
  
 .table, .item {
@@ -246,12 +248,14 @@ border: 1px solid #000;
 background: #737489;
 border-collapse: separate;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
@@ -259,6 +263,7 @@ border: 0px solid #000;
 background: #737489;
 color: #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 .cave-grid, div .left, .mound-grid {
@@ -266,6 +271,7 @@ border: 1px solid #000;
 background: #737489;
 color: #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 .table .left {
@@ -273,6 +279,7 @@ border: 1px solid #000;
 background: #CD5558;
 color: #000;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 .inner-table .right {
@@ -280,6 +287,7 @@ background: #fce9eb;
 border: 1px solid #000;
 border-left: none;
 font-family: 'Dancing Script', Arial, cursive;
+  font-size: 20px;
 }
 
 /* logo */
