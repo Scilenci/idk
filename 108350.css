@@ -170,14 +170,14 @@ border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
 /* text on progress bars */
-.progress div {color: #000;}
+.progress div {color: #d9d9d9;}
  
 /* CHAT */
  
 .chat_light, .chat_dark {
 background: #333333;
 font-size: 11px;
-color: #000;
+color: #d9d9d9;
  font-family: Arial;
 }
 
@@ -269,8 +269,8 @@ color: #333333;
 
 /* left part inside box */
 .table .left {
-border: 1px Groove #a6a6a6;
-background: rgba(175, 107, 61, 0.21);
+border: 1px Groove #d9d9d9;
+background: #a6a6a6;
 color: #d9d9d9;
  font-family: Arial;
 }
