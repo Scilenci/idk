@@ -1,0 +1,331 @@
+div.box1 {
+background:#333333;
+text-align:center;
+color:#d9d9d9;
+width:700px;
+height:400px;
+border:1px Groove #d9d9d9;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+
+div.box2 {
+background:#333333;
+text-align:center;
+color:#d9d9d9;
+width:300px;
+height:400px;
+border:1px Groove #d9d9d9;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+display: inline-block;
+}
+
+
+
+div.box3 {
+background:#333333;
+text-align:center;
+color:#d9d9d9;
+width:300px;
+height:400px;
+border:1px Groove #d9d9d9;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto
+display: inline-block;
+}
+
+
+
+div.boxfloat {
+background:#333333;
+color:#d9d9d9;
+border:1px Groove #d9d9d9;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+body {background: url("https://i.imgur.com/sp87gE6.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #d9d9d9;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #d9d9d9;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Arial !important;
+text-align: left;
+color: #d9d9d9;
+border-bottom: 1px Groove #d9d9d9;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(0, 0, 0, 0.21);
+color: #d9d9d9;
+border: 1px Groove #d9d9d9;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+ font-family: Arial;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px Groove #d9d9d9;
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: #333333;
+border: 1px Groove #d9d9d9;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+ font-family: Arial;
+}
+
+.badge {
+background: rgba(0, 0, 0, 0.21);
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(0, 0, 0, 0.21);
+border: 1px Groove #d9d9d9;
+box-shadow: none;
+ font-family: Arial;
+}
+ 
+.navbar {
+background: #333333;
+border-bottom: 1px Groove #d9d9d9;
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #d9d9d9;
+background: #333333;
+border-left: 1px Groove #d9d9d9;
+border-right: 1px Groove #d9d9d9;
+ font-family: 'Special Elite', Arial ,cursive;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(0, 0, 0, 0.21);
+border: 0px Groove #d9d9d9;
+border-bottom: 1px Groove #d9d9d9;
+border-left: 1px Groove #d9d9d9;
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+.col-md-3 .panel {
+background: #333333;
+border: 1px Groove #d9d9d9;
+box-shadow: none;  
+ font-family: Arial;
+}
+ 
+.progress-bar {
+background: #a6a6a6;
+ font-family: Arial;
+}
+ 
+.progress {
+background: #f2f2f2;
+border: 1px solid #000;
+ font-family: 'Special Elite', Arial ,cursive;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: #333333;
+font-size: 11px;
+color: #000;
+ font-family: Arial;
+}
+
+.chatContainer {
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+ 
+.userstolen {
+background: none;
+ font-family: Arial;
+}
+
+.alert-danger {
+color: #d9d9d9;
+background: #333333;
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+
+.alert-success {
+color: #d9d9d9;
+background: #333333;
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+
+.breadcrumb {
+background:  rgba(0, 0, 0, 0.21);
+font-size: 13px;
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+ 
+.breadcrumb>.active {
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #d9d9d9;
+ font-family: Arial;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px Groove #d9d9d9;
+ font-family: Arial;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px Groove #d9d9d9;
+ font-family: Arial;
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: #333333;
+border-collapse: separate;
+ font-family: Arial;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px Groove #d9d9d9;
+ font-family: Arial;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px Groove #d9d9d9;
+background: #333333;
+color: #d9d9d9;
+ font-family: Arial;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px Groove #d9d9d9;
+background: #AF6B3D;
+color: #333333;
+ font-family: Arial;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px Groove #a6a6a6;
+background: rgba(175, 107, 61, 0.21);
+color: #d9d9d9;
+ font-family: Arial;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: #f2f2f2;
+border: 1px Groove #d9d9d9;
+border-left: none;
+ font-family: Arial;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/jMZkN1X.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #333333;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #1a1a1a;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
