@@ -189,7 +189,7 @@ box-shadow: none;
 }
  
 .progress-bar {
-background: #FFF9F3;
+background: #6A5746;
  font-family: Arial;
 }
  
@@ -323,7 +323,7 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #22255;
+background-color: #022255;
 }
   
 /* The thingy that moves */
