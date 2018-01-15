@@ -1,5 +1,5 @@
 div.box1 {
-background:#143652;
+background:#0f2a3e;
 text-align:center;
 color:#d9d9d9;
 width:700px;
@@ -12,7 +12,7 @@ overflow:auto;
 
 
 div.box2 {
-background:#143652;
+background:#0f2a3e;
 text-align:center;
 color:#d9d9d9;
 width:300px;
@@ -27,7 +27,7 @@ display: block-inline;
 
 
 div.box3 {
-background:#143652;
+background:#0f2a3e;
 text-align:center;
 color:#d9d9d9;
 width:300px;
@@ -42,7 +42,7 @@ display: block-inline;
 
 
 div.boxfloat {
-background:#143652;
+background:#0f2a3e;
 color:#d9d9d9;
 border:1px Groove #d9d9d9;
 position:fixed;
@@ -97,7 +97,7 @@ color: #d9d9d9;
 /* TOPBAR */
  
 .topbar {
-background: #143652;
+background: #0f2a3e;
 border: 1px Groove #d9d9d9;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -120,7 +120,7 @@ box-shadow: none;
 }
  
 .navbar {
-background: #143652;
+background: #0f2a3e;
 border-bottom: 1px Groove #d9d9d9;
 color: #d9d9d9;
  font-family: Arial;
@@ -133,7 +133,7 @@ color: #d9d9d9;
  
 .navbar-default .navbar-nav li a:hover {
 color: #d9d9d9;
-background: #143652;
+background: #0f2a3e;
 border-left: 1px Groove #d9d9d9;
 border-right: 1px Groove #d9d9d9;
  font-family: 'Special Elite', Arial ,cursive;
@@ -153,7 +153,7 @@ color: #d9d9d9;
 }
  
 .col-md-3 .panel {
-background: #143652;
+background: #0f2a3e;
 border: 1px Groove #d9d9d9;
 box-shadow: none;  
  font-family: Arial;
@@ -175,7 +175,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #143652;
+background: #0f2a3e;
 font-size: 11px;
 color: #d9d9d9;
  font-family: Arial;
@@ -193,14 +193,14 @@ background: none;
 
 .alert-danger {
 color: #d9d9d9;
-background: #143652;
+background: #0f2a3e;
 border: 1px Groove #d9d9d9;
  font-family: Arial;
 }
 
 .alert-success {
 color: #d9d9d9;
-background: #143652;
+background: #0f2a3e;
 border: 1px Groove #d9d9d9;
  font-family: Arial;
 }
@@ -240,7 +240,7 @@ border: 1px Groove #d9d9d9;
  
 .table, .item {
 border: 1px solid #000;
-background: #143652;
+background: #0f2a3e;
 border-collapse: separate;
  font-family: Arial;
 }
