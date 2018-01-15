@@ -22,6 +22,7 @@ transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
 display: block-inline;
+ float: left;
 }
 
 
@@ -37,6 +38,7 @@ transition:all ease 2s;
 border-radius:5px;
 overflow:auto
 display: block-inline;
+ float: right;
 }
 
 
