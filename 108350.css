@@ -1,5 +1,5 @@
 div.box1 {
-background:#333333;
+background:#0A1C2A;
 text-align:center;
 color:#d9d9d9;
 width:700px;
@@ -12,7 +12,7 @@ overflow:auto;
 
 
 div.box2 {
-background:#333333;
+background:#0A1C2A;
 text-align:center;
 color:#d9d9d9;
 width:300px;
@@ -27,7 +27,7 @@ display: inline-block;
 
 
 div.box3 {
-background:#333333;
+background:#0A1C2A;
 text-align:center;
 color:#d9d9d9;
 width:300px;
@@ -42,7 +42,7 @@ display: inline-block;
 
 
 div.boxfloat {
-background:#333333;
+background:#0A1C2A;
 color:#d9d9d9;
 border:1px Groove #d9d9d9;
 position:fixed;
@@ -97,7 +97,7 @@ color: #d9d9d9;
 /* TOPBAR */
  
 .topbar {
-background: #333333;
+background: #0A1C2A;
 border: 1px Groove #d9d9d9;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -120,7 +120,7 @@ box-shadow: none;
 }
  
 .navbar {
-background: #333333;
+background: #0A1C2A;
 border-bottom: 1px Groove #d9d9d9;
 color: #d9d9d9;
  font-family: Arial;
@@ -133,7 +133,7 @@ color: #d9d9d9;
  
 .navbar-default .navbar-nav li a:hover {
 color: #d9d9d9;
-background: #333333;
+background: #0A1C2A;
 border-left: 1px Groove #d9d9d9;
 border-right: 1px Groove #d9d9d9;
  font-family: 'Special Elite', Arial ,cursive;
@@ -153,19 +153,19 @@ color: #d9d9d9;
 }
  
 .col-md-3 .panel {
-background: #333333;
+background: #0A1C2A;
 border: 1px Groove #d9d9d9;
 box-shadow: none;  
  font-family: Arial;
 }
  
 .progress-bar {
-background: #a6a6a6;
+background: #25424A;
  font-family: Arial;
 }
  
 .progress {
-background: #f2f2f2;
+background: #A7B0AD;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
@@ -175,7 +175,7 @@ border: 1px solid #000;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #333333;
+background: #0A1C2A;
 font-size: 11px;
 color: #d9d9d9;
  font-family: Arial;
@@ -193,14 +193,14 @@ background: none;
 
 .alert-danger {
 color: #d9d9d9;
-background: #333333;
+background: #0A1C2A;
 border: 1px Groove #d9d9d9;
  font-family: Arial;
 }
 
 .alert-success {
 color: #d9d9d9;
-background: #333333;
+background: #0A1C2A;
 border: 1px Groove #d9d9d9;
  font-family: Arial;
 }
@@ -240,7 +240,7 @@ border: 1px Groove #d9d9d9;
  
 .table, .item {
 border: 1px solid #000;
-background: #333333;
+background: #0A1C2A;
 border-collapse: separate;
  font-family: Arial;
 }
@@ -254,7 +254,7 @@ border: 0px Groove #d9d9d9;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px Groove #d9d9d9;
-background: #333333;
+background: #0A1C2A;
 color: #d9d9d9;
  font-family: Arial;
 }
@@ -262,7 +262,7 @@ color: #d9d9d9;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px Groove #d9d9d9;
-background: #333333;
+background: #0A1C2A;
 color: #d9d9d9;
  font-family: Arial;
 }
@@ -270,14 +270,14 @@ color: #d9d9d9;
 /* left part inside box */
 .table .left {
 border: 1px Groove #d9d9d9;
-background: #a6a6a6;
+background: #25424A;
 color: #d9d9d9;
  font-family: Arial;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: #f2f2f2;
+background: #A7B0AD;
 border: 1px Groove #d9d9d9;
 border-left: none;
  font-family: Arial;
@@ -294,12 +294,12 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #333333;
+background-color: #0A1C2A;
 }
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #1a1a1a;
+background-color:  #d9d9d9;
 border-radius: 0px;
 border: none;
 }
