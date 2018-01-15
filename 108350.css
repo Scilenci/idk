@@ -21,8 +21,7 @@ border:1px Groove #d9d9d9;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
-display: block-inline;
- float: left;
+display: inline-block;
 }
 
 
@@ -37,8 +36,7 @@ border:1px Groove #d9d9d9;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto
-display: block-inline;
- float: right;
+display: inline-block;
 }
 
 
