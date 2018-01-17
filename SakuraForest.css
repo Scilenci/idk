@@ -1,8 +1,88 @@
-/* 
-CSS template originally created and presented by Kraft (#738/#1105)
-You may edit and use this code for personal or commercial use.
-This comment must remain at the top in all cases - it will not be visible on final upload.
-*/
+div.box1 {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:#803C5D;
+text-align:center;
+color:black;
+width:700px;
+height:255px;
+border:1px solid black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:#803C5D;
+color:black;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
   
  
 body {
