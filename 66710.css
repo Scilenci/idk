@@ -4,7 +4,7 @@ text-align:center;
 color:#BCD3E4;
 width:700px;
 height:60px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -16,7 +16,7 @@ text-align:center;
 color:#BCD3E4;
 width:700;
 height:255px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -28,7 +28,7 @@ text-align:center;
 color:#BCD3E4;
 width:700px;
 height:60px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -40,7 +40,7 @@ text-align:center;
 color:#BCD3E4;
 width:700px;
 height:255px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -52,7 +52,7 @@ text-align:center;
 color:#BCD3E4;
 width:700px;
 height:60px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -64,7 +64,7 @@ text-align:center;
 color:#BCD3E4;
 width:700px;
 height:255px;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -73,7 +73,7 @@ overflow:auto;
 div.boxfloat {
 background:rgba(79, 93, 98,.7);
 color:#BCD3E4;
-border:1px Double #BCD3E4;
+border:4px Double #BCD3E4;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -94,14 +94,14 @@ h1, h3 , .sidebar h3 {
 font-family: "Bookman Old Style" !important;
 text-align: left;
 color: #BCD3E4;
-border-bottom: 1px Double #BCD3E4;
+border-bottom: 4px Double #BCD3E4;
 }
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(79, 93, 98, 0.21);
 color: #BCD3E4;
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 text-shadow: none;
 font-weight: bold;
 font-size: 14px;
@@ -127,7 +127,7 @@ font-family: "Bookman Old Style";
  
 .topbar {
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: "Bookman Old Style";
@@ -135,7 +135,7 @@ font-family: "Bookman Old Style";
 
 .badge {
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 }
  
@@ -143,14 +143,14 @@ font-family: "Bookman Old Style";
  
 .main {
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 box-shadow: none;
 font-family: "Bookman Old Style";
 }
  
 .navbar {
 background: rgba(79, 93, 98, 0.21);
-border-bottom: 1px Double #BCD3E4;
+border-bottom: 4px Double #BCD3E4;
 color: #BCD3E4;
 font-family: "Bookman Old Style";
 }
@@ -163,8 +163,8 @@ font-family: "Bookman Old Style";
 .navbar-default .navbar-nav li a:hover {
 color: #BCD3E4;
 background: #4F5D62;
-border-left: 1px Double #BCD3E4;
-border-right: 1px Double #BCD3E4;
+border-left: 4px Double #BCD3E4;
+border-right: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 } 
  
@@ -183,7 +183,7 @@ font-family: "Bookman Old Style";
  
 .col-md-3 .panel {
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 box-shadow: none;  
 font-family: "Bookman Old Style";
 }
@@ -211,7 +211,7 @@ font-family: "Bookman Old Style";
 }
 
 .chatContainer {
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
  font-family: "Bookman Old Style";
 }
  
@@ -223,21 +223,21 @@ font-family: "Bookman Old Style";
 .alert-danger {
 color: #BCD3E4;
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 }
 
 .alert-success {
 color: #BCD3E4;
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 }
 
 .breadcrumb {
 background:  rgba(79, 93, 98, 0.21);
 font-size: 13px;
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 }
  
@@ -263,7 +263,7 @@ font-family: "Bookman Old Style";
 #lion_image {
 border-radius: 25px;
 overflow: hidden;
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 font-family: "Bookman Old Style";
 }
  
@@ -290,7 +290,7 @@ font-family: "Bookman Old Style";
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 background: #4F5D62;
 color: #BCD3E4;
 font-family: "Bookman Old Style";
@@ -298,7 +298,7 @@ font-family: "Bookman Old Style";
 
 /* left part inside box */
 .table .left {
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 background: rgba(79, 93, 98, 0.21);
 color: #BCD3E4;
 font-family: "Bookman Old Style";
@@ -307,7 +307,7 @@ font-family: "Bookman Old Style";
 /* right part inside box */
 .inner-table .right {
 background: rgba(79, 93, 98, 0.21);
-border: 1px Double #BCD3E4;
+border: 4px Double #BCD3E4;
 border-left: none;
 font-family: "Bookman Old Style";
 }
