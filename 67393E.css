@@ -91,7 +91,7 @@ color: #BCD3E4;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: "Bookman Old Style" !important;
+font-family: Arial !important;
 text-align: left;
 color: #BCD3E4;
 border-bottom: 4px Double #BCD3E4;
@@ -106,7 +106,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
  
@@ -114,13 +114,13 @@ font-family: "Bookman Old Style";
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px Double #BCD3E4;
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 /* TOPBAR */
@@ -130,13 +130,13 @@ background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .badge {
 background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 /* NAVBAR */
@@ -145,27 +145,27 @@ font-family: "Bookman Old Style";
 background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
 box-shadow: none;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .navbar {
 background: rgba(123, 124, 251, 0.21);
 border-bottom: 3px Double #BCD3E4;
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .navbar-default .navbar-nav li a:hover {
 color: #BCD3E4;
-background: #87CCFF;
+background: #C0A3FF;
 border-left: 4px Double #BCD3E4;
 border-right: 4px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 } 
  
  
@@ -178,25 +178,25 @@ border: 0px Double #BCD3E4;
 border-bottom: 1px Double #BCD3E4;
 border-left: 1px Double #BCD3E4;
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .col-md-3 .panel {
 background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
 box-shadow: none;  
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .progress-bar {
-background: #87CCFF;
-font-family: "Bookman Old Style";
+background: #C0A3FF;
+font-family: Arial;
 }
  
 .progress {
 background: #f7f7f7;
 border: 1px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 /* text on progress bars */
 .progress div {color: #BCD3E4;}
@@ -207,55 +207,55 @@ font-family: "Bookman Old Style";
 background: rgba(123, 124, 251, 0.21);
 font-size: 11px;
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .chatContainer {
 border: 3px Double #BCD3E4;
- font-family: "Bookman Old Style";
+ font-family: Arial;
 }
  
 .userstolen {
 background: none;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .alert-danger {
 color: #BCD3E4;
 background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .alert-success {
 color: #BCD3E4;
 background: rgba(123, 124, 251, 0.21);
 border: 3px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .breadcrumb {
 background:  rgba(123, 124, 251, 0.21);
 font-size: 13px;
 border: 3px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .breadcrumb>.active {
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .col-md-9 {
 background: none;
 border: 0px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 /* TABLES */
@@ -264,20 +264,20 @@ font-family: "Bookman Old Style";
 border-radius: 25px;
 overflow: hidden;
 border: 3px Double #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
  
 .table, .item {
 border: 3px Double #BCD3E4;
 background: rgba(123, 124, 251, 0.21);
 border-collapse: separate;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 /* top and bottom of boxes */
@@ -285,15 +285,15 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px Double #BCD3E4;
 background: rgba(123, 124, 251, 0.21);
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 3px Double #BCD3E4;
-background: #87CCFF;
+background: #C0A3FF;
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 /* left part inside box */
@@ -301,7 +301,7 @@ font-family: "Bookman Old Style";
 border: 1px Double #BCD3E4;
 background: rgba(123, 124, 251, 0.21);
 color: #BCD3E4;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 /* right part inside box */
@@ -309,12 +309,12 @@ font-family: "Bookman Old Style";
 background: rgba(79, 93, 98, 0.21);
 border: 1px Double #BCD3E4;
 border-left: none;
-font-family: "Bookman Old Style";
+font-family: Arial;
 }
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/cnHVJrN.png')}
+ content: url('https://i.imgur.com/PKQdbZT.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
@@ -328,7 +328,7 @@ background-color: #fffff;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #87CCFF;
+background-color:  #C0A3FF;
 border-radius: 0px;
 border: none;
 }
