@@ -291,7 +291,7 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #678899;
+background: #4e1a65;
 color: #000;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -314,7 +314,7 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/G4iadVJ.png')}
+ content: url('https://i.imgur.com/P7MfK0x.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
