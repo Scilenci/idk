@@ -84,6 +84,20 @@ height:150px;
 overflow:auto;
 }
 
+div.boxfloat2 {
+background:#678899;
+color:black;
+border:1px solid black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+top:0px;
+width:300px;
+height:350px;
+overflow:auto;
+}
+
 body {background: url("https://i.imgur.com/VfqjHUR.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
