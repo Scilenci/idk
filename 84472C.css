@@ -154,8 +154,8 @@ font-family: 'Shadows Into Light', cursive;
 .sidebar {
 background: rgba(196, 72, 46, 0.21);
 border: 0px dashed #000;
-border-bottom: 1px solid #000;
-border-left: 1px solid #000;
+border-bottom: 1px dashed #000;
+border-left: 1px dashed #000;
 color: #000;
 font-family: 'Shadows Into Light', cursive;
 }
@@ -247,7 +247,7 @@ font-family: 'Shadows Into Light', cursive;
 }
  
 .table, .item {
-border: 1px solid #000;
+border: 1px dashed #000;
 background: #C4482E;
 border-collapse: separate;
 font-family: 'Shadows Into Light', cursive;
