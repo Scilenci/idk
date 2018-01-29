@@ -4,7 +4,7 @@ text-align:center;
 color:black;
 width:410px;
 height:500px;
-border:1px Dash black;
+border:1px dashed black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -17,7 +17,7 @@ text-align:center;
 color:black;
 width:410px;
 height:500px;
-border:1px Dash black;
+border:1px dashed black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:Auto;
@@ -31,7 +31,7 @@ text-align:center;
 color:black;
 width:700px;
 height:60px;
-border:1px Dash black;
+border:1px dashed black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -43,7 +43,7 @@ text-align:center;
 color:black;
 width:700px;
 height:255px;
-border:1px Dash black;
+border:1px dashed black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -52,7 +52,7 @@ overflow:auto;
 div.boxfloat {
 background:#C4482E;
 color:black;
-border:1px Dash black;
+border:1px dashed black;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -73,7 +73,7 @@ h1, h3 , .sidebar h3 {
 font-family: 'Shadows Into Light', cursive !important;
 text-align: left;
 color: #000;
-border-bottom: 1px solid #000;
+border-bottom: 1px dashed #000;
 }
 
 /* BUTTONS */
@@ -97,7 +97,7 @@ font-family: 'Shadows Into Light', cursive;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
-border-bottom: 1px Dash #000000;
+border-bottom: 1px dashed #000000;
 color: #000000;
 font-family: 'Shadows Into Light', cursive;
 }
@@ -106,7 +106,7 @@ font-family: 'Shadows Into Light', cursive;
  
 .topbar {
 background: #C4482E;
-border: 1px Dash #000;
+border: 1px dashed #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: 'Shadows Into Light', cursive;
@@ -122,14 +122,14 @@ font-family: 'Shadows Into Light', cursive;
  
 .main {
 background: rgba(196, 72, 46, 0.21);
-border: 1px Dash #000;
+border: 1px dashed #000;
 box-shadow: none;
 font-family: 'Shadows Into Light', cursive;
 }
  
 .navbar {
 background: #C4482E;
-border-bottom: 1px Dash #000;
+border-bottom: 1px dashed #000;
 color: #000;
 font-family: 'Shadows Into Light', cursive;
 }
@@ -142,7 +142,7 @@ font-family: 'Shadows Into Light', cursive;
 .navbar-default .navbar-nav li a:hover {
 color: #000;
 background: #8C382B;
-border-left: 1px solid #000;
+border-left: 1px Solid #000;
 border-right: 1px solid #000;
 font-family: 'Shadows Into Light', cursive;
 } 
@@ -153,7 +153,7 @@ font-family: 'Shadows Into Light', cursive;
  
 .sidebar {
 background: rgba(196, 72, 46, 0.21);
-border: 0px Dash #000;
+border: 0px dashed #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
 color: #000;
@@ -162,7 +162,7 @@ font-family: 'Shadows Into Light', cursive;
  
 .col-md-3 .panel {
 background: #C4482E;
-border: 1px Dash #000;
+border: 1px dashed #000;
 box-shadow: none;  
 font-family: 'Shadows Into Light', cursive;
 }
@@ -202,14 +202,14 @@ font-family: 'Shadows Into Light', cursive;
 .alert-danger {
 color: #000000;
 background: #8C382B;
-border: 1px Dash #000;
+border: 1px dashed #000;
 font-family: 'Shadows Into Light', cursive;
 }
 
 .alert-success {
 color: #000;
 background: #D56042;
-border: 1px Dash #000;
+border: 1px dashed #000;
 font-family: 'Shadows Into Light', cursive;
 }
 
@@ -233,7 +233,7 @@ font-family: 'Shadows Into Light', cursive;
  
 .col-md-9 {
 background: none;
-border: 0px Dash #000;
+border: 0px dashed #000;
 font-family: 'Shadows Into Light', cursive;
 }
  
@@ -255,13 +255,13 @@ font-family: 'Shadows Into Light', cursive;
 
 .table .right, .table .right_odd {
 background: none;
-border: 0px Dash #000;
+border: 0px dashed #000;
 font-family: 'Shadows Into Light', cursive;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
-border: 0px Dash #000;
+border: 0px Solid #000;
 background: #C4482E;
 color: #000;
 font-family: 'Shadows Into Light', cursive;
@@ -269,7 +269,7 @@ font-family: 'Shadows Into Light', cursive;
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px Dash #000;
+border: 1px dashed #000;
 background: #C4482E;
 color: #000;
 font-family: 'Shadows Into Light', cursive;
@@ -277,7 +277,7 @@ font-family: 'Shadows Into Light', cursive;
 
 /* left part inside box */
 .table .left {
-border: 1px Dash #000;
+border: 1px solid #000;
 background: #8C382B;
 color: #000;
 font-family: 'Shadows Into Light', cursive;
@@ -286,14 +286,14 @@ font-family: 'Shadows Into Light', cursive;
 /* right part inside box */
 .inner-table .right {
 background: #D56042;
-border: 1px Dash #000;
+border: 1px solid #000;
 border-left: none;
 font-family: 'Shadows Into Light', cursive;
 }
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/jMZkN1X.png')}
+ content: url('https://i.imgur.com/i6KL6Ql.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
