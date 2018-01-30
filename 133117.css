@@ -307,7 +307,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 
 /* right part inside box */
 .inner-table .right {
-background: #fffff;
+background: #fffffff;
 border: 1px solid #000;
 border-left: none;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
