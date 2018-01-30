@@ -85,7 +85,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("http://99pcwallpapers.com/wp-content/uploads/Roaring-lion-beautiful-images-desktop-fullscreen-wallpapers.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/tUSQih5.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -315,7 +315,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/jMZkN1X.png')}
+ content: url('https://i.imgur.com/Z8TFPEN.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
