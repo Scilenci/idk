@@ -39,6 +39,30 @@ overflow:hidden;
 background:#FFD4E7;
 text-align:center;
 color:black;
+width:700px;
+height:400px;
+border:1px dashed black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:#FFD4E7;
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:1px dashed black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:#FFD4E7;
+text-align:center;
+color:black;
 width:1000px;
 height:700px;
 border:1px dashed black;
