@@ -162,7 +162,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #c6a886;
+background: #C8525A;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -291,7 +291,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 3px double #000;
-background: #c6a886;
+background: #C8525A;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
