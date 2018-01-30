@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:700;
@@ -23,7 +23,7 @@ overflow:auto;
 }
 
 div.box2 {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:700px;
@@ -35,7 +35,7 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:1000px;
@@ -47,7 +47,7 @@ overflow:auto;
 }
 
 div.box3 {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:700px;
@@ -59,7 +59,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 text-align:center;
 color:black;
 width:700px;
@@ -71,7 +71,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:rgba(252, 152, 182, 0.80);
+background:rgba(200, 82, 90, 0.80);
 color:black;
 border:3px double black;
 position:fixed;
@@ -126,7 +126,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* TOPBAR */
  
 .topbar {
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 border: 3px double #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -134,7 +134,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
 
 .badge {
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -149,7 +149,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .navbar {
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 border-bottom: 3px double #000;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -182,7 +182,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .col-md-3 .panel {
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 border: 3px double #000;
 box-shadow: none;  
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -204,7 +204,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 font-size: 11px;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -235,7 +235,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
 
 .breadcrumb {
-background:  rgba(252, 152, 182, 0.80);
+background:  rgba(200, 82, 90, 0.80);
 font-size: 13px;
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -269,7 +269,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
  
 .table, .item {
 border: 3px double #000;
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 border-collapse: separate;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -283,7 +283,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(252, 152, 182, 0.80);
+background: rgba(200, 82, 90, 0.80);
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
