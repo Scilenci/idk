@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(252, 152, 182, 0.50);
+background:rgba(252, 152, 182, 0.80);
 text-align:center;
 color:black;
 width:700px;
@@ -11,7 +11,7 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(252, 152, 182, 0.50);
+background:rgba(252, 152, 182, 0.80);
 text-align:center;
 color:black;
 width:700;
