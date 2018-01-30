@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(233, 192, 148, 0.21);
+background:#DCB186;
 text-align:center;
 color:black;
 width:700px;
@@ -12,7 +12,7 @@ overflow:auto;
 
 
 div.box2 {
-background:rgba(233, 192, 148, 0.21);
+background:#DCB186;
 text-align:center;
 color:black;
 width:410px;
@@ -27,7 +27,7 @@ overflow:auto;
 
 
 div.box3 {
-background:rgba(233, 192, 148, 0.21);
+background:#DCB186;
 text-align:center;
 color:black;
 width:410px;
@@ -42,7 +42,7 @@ overflow:auto;
 
 
 div.boxfloat {
-background:rgba(233, 192, 148,.7);
+background:#DCB186;
 color:black;
 border:3px double black;
 position:fixed;
@@ -70,7 +70,7 @@ border-bottom: 1px solid #000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(233, 192, 148, 0.21);
+background: #c6a886;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -97,7 +97,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* TOPBAR */
  
 .topbar {
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 border: 3px double #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -105,7 +105,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
 
 .badge {
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -120,7 +120,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .navbar {
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 border-bottom: 3px double #000;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -153,7 +153,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .col-md-3 .panel {
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 border: 3px double #000;
 box-shadow: none;  
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -165,7 +165,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 }
  
 .progress {
-background: #f7f7f7;
+background: #f3e6d8;
 border: 1px solid #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -175,7 +175,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 font-size: 11px;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -193,20 +193,20 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 
 .alert-danger {
 color: #000000;
-background: rgba(233, 192, 148, 0.21);
+background: #c6a886;
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
 .alert-success {
 color: #000;
-background: rgba(233, 192, 148, 0.21);
+background: #f3e6d8;
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
 .breadcrumb {
-background:  rgba(233, 192, 148, 0.21);
+background:  #DCB186;
 font-size: 13px;
 border: 3px double #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -240,7 +240,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
  
 .table, .item {
 border: 3px double #000;
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 border-collapse: separate;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -254,7 +254,7 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(233, 192, 148, 0.21);
+background: #DCB186;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
@@ -270,14 +270,14 @@ font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewrite
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(233, 192, 148, 0.21);
+background: #c6a886;
 color: #000;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(233, 192, 148, 0.21);
+background: #f3e6d8;
 border: 1px solid #000;
 border-left: none;
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
