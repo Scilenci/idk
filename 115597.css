@@ -1,0 +1,331 @@
+div.box1 {
+background:#DB9DA0;
+text-align:center;
+color:black;
+width:700px;
+height:300px;
+border:1px dashed black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+
+div.box2 {
+background:#DB9DA0;
+text-align:center;
+color:black;
+width:410px;
+height:300px;
+border:1px dashed black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+ display: inline-block
+}
+
+
+
+div.box3 {
+background:#DB9DA0;
+text-align:center;
+color:black;
+width:410px;
+height:300px;
+border:1px dashed black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+ display: inline-block
+}
+
+
+
+div.boxfloat {
+background:#DB9DA0;
+color:black;
+border:1px dashed black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+body {background: url("https://i.imgur.com/MCDAQ6g.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: #4B7492;
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: #DB9DA0;
+border: 1px dashed #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.badge {
+background: #DB9DA0;
+border: 1px dashed #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(219, 157, 160, 0.21);
+border: 1px dashed #000;
+box-shadow: none;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar {
+background: #DB9DA0;
+border-bottom: 1px dashed #000;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #4B7492;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(219, 157, 160, 0.21);
+border: 0px solid #000;
+border-bottom: 1px dashed #000;
+border-left: 1px dashed #000;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.col-md-3 .panel {
+background: #DB9DA0;
+border: 1px dashed #000;
+box-shadow: none;  
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.progress-bar {
+background: #4B7492;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.progress {
+background: #bccfdc;
+border: 1px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: #DB9DA0;
+font-size: 11px;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.userstolen {
+background: none;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.alert-danger {
+color: #000000;
+background: #4B7492;
+border: 1px dashed #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.alert-success {
+color: #000;
+background: #bccfdc;
+border: 1px dashed #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.breadcrumb {
+background:  #DB9DA0;
+font-size: 13px;
+border: 1px dashed #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+ 
+.table, .item {
+border: 1px dashed #000;
+background: #DB9DA0;
+border-collapse: separate;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: #DB9DA0;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px dashed #000;
+background: #c6a886;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: #4B7492;
+color: #000;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: #bccfdc;
+border: 1px solid #000;
+border-left: none;
+font-family: "Comic Sans MS", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/8Q6tixT.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #DB9DA0;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #4B7492;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
