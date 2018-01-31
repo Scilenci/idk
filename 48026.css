@@ -70,7 +70,7 @@ border-bottom: 1px solid #cc0000;
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #ffffff;
+background: #808080;
 color: #cc0000;
 border: 1px solid #cc0000;
 text-shadow: none;
@@ -133,7 +133,7 @@ font-family: Verdana, Geneva, sans-serif;
  
 .navbar-default .navbar-nav li a:hover {
 color: #cc0000;
-background: #ffffff;
+background: #808080;
 border-left: 1px solid #cc0000;
 border-right: 1px solid #cc0000;
 font-family: Verdana, Geneva, sans-serif;
@@ -160,7 +160,7 @@ font-family: Verdana, Geneva, sans-serif;
 }
  
 .progress-bar {
-background: #ffffff;
+background: #808080;
 font-family: Verdana, Geneva, sans-serif;
 }
  
@@ -193,14 +193,14 @@ font-family: Verdana, Geneva, sans-serif;
 
 .alert-danger {
 color: #cc0000;
-background: #ffffff;
+background: #808080;
 border: 3px double #cc0000;
 font-family: Verdana, Geneva, sans-serif;
 }
 
 .alert-success {
 color: #cc0000;
-background: #ffffff;
+background: #808080;
 border: 3px double #cc0000;
 font-family: Verdana, Geneva, sans-serif;
 }
@@ -270,14 +270,14 @@ font-family: Verdana, Geneva, sans-serif;
 /* left part inside box */
 .table .left {
 border: 1px solid #cc0000;
-background: #ffffff;
+background: #808080;
 color: #cc0000;
 font-family: Verdana, Geneva, sans-serif;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: #ffffff;
+background: #808080;
 border: 1px solid #cc0000;
 border-left: none;
 font-family: Verdana, Geneva, sans-serif;
@@ -299,7 +299,7 @@ background-color: #000000;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  #ffffff;
+background-color:  #808080;
 border-radius: 0px;
 border: none;
 }
