@@ -87,7 +87,7 @@ overflow:auto;
 div.boxfloat2 {
 background:rgba(200, 82, 90, 0.00);
 color:black;
-border:3px double black;
+border:0px double black;
 position:fixed;
 text-align:center;
 border-radius:5px;
