@@ -95,7 +95,7 @@ right:0px;
 bottom:0px;
 width:150px;
 height:150px;
-overflow:auto;
+overflow:hidden;
 }
 
 body {background: url("https://i.imgur.com/9wWa8gj.gif") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
