@@ -4,7 +4,7 @@ text-align:center;
 color:black;
 width:400px;
 height:200px;
-border:1px solid black;
+border:1px inset black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -18,7 +18,7 @@ text-align:center;
 color:black;
 width:400px;
 height:200px;
-border:1px solid black;
+border:1px inset black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -33,7 +33,7 @@ text-align:center;
 color:black;
 width:700px;
 height:60px;
-border:1px solid black;
+border:1px inset black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -45,7 +45,7 @@ text-align:center;
 color:black;
 width:700px;
 height:255px;
-border:1px solid black;
+border:1px inset black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -54,7 +54,7 @@ overflow:auto;
 div.boxfloat {
 background:#996B5E;
 color:black;
-border:1px solid black;
+border:1px inset black;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -75,14 +75,14 @@ h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
 color: #000;
-border-bottom: 1px solid #000;
+border-bottom: 1px inset #000;
 }
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: #815852;
 color: #000;
-border: 1px solid #000;
+border: 1px inset #000;
 text-shadow: none;
 font-weight: bold;
 font-size: 14px;
@@ -99,7 +99,7 @@ color: #000000;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
-border-bottom: 1px solid #000000;
+border-bottom: 1px inset #000000;
 color: #000000;
  font-family: Arial;
 }
@@ -108,7 +108,7 @@ color: #000000;
  
 .topbar {
 background: #996B5E;
-border: 1px solid #000;
+border: 1px inset #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
  font-family: Arial;
@@ -116,7 +116,7 @@ border-bottom-right-radius: 10px;
 
 .badge {
 background: #996B5E;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
  
@@ -124,14 +124,14 @@ border: 1px solid #000;
  
 .main {
 background: rgba(255, 238, 198, 0.21);
-border: 1px solid #000;
+border: 1px inset #000;
 box-shadow: none;
  font-family: Arial;
 }
  
 .navbar {
 background: #996B5E;
-border-bottom: 1px solid #000;
+border-bottom: 1px inset #000;
 color: #000;
  font-family: Arial;
 }
@@ -144,8 +144,8 @@ color: #000;
 .navbar-default .navbar-nav li a:hover {
 color: #000;
 background: #815852;
-border-left: 1px solid #000;
-border-right: 1px solid #000;
+border-left: 1px inset #000;
+border-right: 1px inset #000;
  font-family: 'Special Elite', Arial ,cursive;
 } 
  
@@ -156,15 +156,15 @@ border-right: 1px solid #000;
 .sidebar {
 background: rgba(255, 238, 198, 0.21);
 border: 0px solid #000;
-border-bottom: 1px solid #000;
-border-left: 1px solid #000;
+border-bottom: 1px inset #000;
+border-left: 1px inset #000;
 color: #000;
  font-family: Arial;
 }
  
 .col-md-3 .panel {
 background: #996B5E;
-border: 1px solid #000;
+border: 1px inset #000;
 box-shadow: none;  
  font-family: Arial;
 }
@@ -176,7 +176,7 @@ background: #815852;
  
 .progress {
 background: #ffeec6;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
 /* text on progress bars */
@@ -192,7 +192,7 @@ color: #000;
 }
 
 .chatContainer {
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
  
@@ -204,21 +204,21 @@ background: none;
 .alert-danger {
 color: #000000;
 background: #815852;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
 
 .alert-success {
 color: #000;
 background: #ffeec6;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
 
 .breadcrumb {
 background:  #996B5E;
 font-size: 13px;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
  
@@ -235,7 +235,7 @@ color: #000;
  
 .col-md-9 {
 background: none;
-border: 0px solid #000;
+border: 0px inset #000;
  font-family: Arial;
 }
  
@@ -244,7 +244,7 @@ border: 0px solid #000;
 #lion_image {
 border-radius: 25px;
 overflow: hidden;
-border: 1px solid #000;
+border: 1px inset #000;
  font-family: Arial;
 }
  
@@ -257,13 +257,13 @@ border-collapse: separate;
 
 .table .right, .table .right_odd {
 background: none;
-border: 0px solid #000;
+border: 0px inset #000;
  font-family: Arial;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
-border: 0px solid #000;
+border: 0px inset #000;
 background: #996B5E;
 color: #000;
  font-family: Arial;
@@ -271,7 +271,7 @@ color: #000;
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px solid #000;
+border: 1px inset #000;
 background: #996B5E;
 color: #000;
  font-family: Arial;
@@ -279,7 +279,7 @@ color: #000;
 
 /* left part inside box */
 .table .left {
-border: 1px solid #000;
+border: 1px inset #000;
 background: #815852;
 color: #000;
  font-family: Arial;
@@ -288,7 +288,7 @@ color: #000;
 /* right part inside box */
 .inner-table .right {
 background: #ffeec6;
-border: 1px solid #000;
+border: 1px inset #000;
 border-left: none;
  font-family: Arial;
 }
