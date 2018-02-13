@@ -72,7 +72,7 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif !important;
 text-align: left;
 color: #000;
 border-bottom: 1px inset #000;
@@ -87,7 +87,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
  
@@ -95,13 +95,13 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px inset #000000;
 color: #000000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 /* TOPBAR */
@@ -111,13 +111,13 @@ background: #996B5E;
 border: 1px inset #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .badge {
 background: #996B5E;
 border: 1px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 /* NAVBAR */
@@ -126,19 +126,19 @@ border: 1px inset #000;
 background: rgba(255, 238, 198, 0.21);
 border: 1px inset #000;
 box-shadow: none;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .navbar {
 background: #996B5E;
 border-bottom: 1px inset #000;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -146,7 +146,7 @@ color: #000;
 background: #815852;
 border-left: 1px inset #000;
 border-right: 1px inset #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 } 
  
  
@@ -159,25 +159,25 @@ border: 0px solid #000;
 border-bottom: 1px inset #000;
 border-left: 1px inset #000;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .col-md-3 .panel {
 background: #996B5E;
 border: 1px inset #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .progress-bar {
 background: #815852;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .progress {
 background: #ffeec6;
 border: 1px inset #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -188,55 +188,55 @@ border: 1px inset #000;
 background: #996B5E;
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .chatContainer {
 border: 1px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .alert-danger {
 color: #000000;
 background: #815852;
 border: 1px inset #000;
- font-family: Arial;
+ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .alert-success {
 color: #000;
 background: #ffeec6;
 border: 1px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .breadcrumb {
 background:  #996B5E;
 font-size: 13px;
 border: 1px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .col-md-9 {
 background: none;
 border: 0px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 /* TABLES */
@@ -245,20 +245,20 @@ border: 0px inset #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .table, .item {
 border: 1px solid #000;
 background: #996B5E;
 border-collapse: separate;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px inset #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* top and bottom of boxes */
@@ -266,7 +266,7 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px inset #000;
 background: #996B5E;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* cave and mound boxes */
@@ -274,7 +274,7 @@ color: #000;
 border: 1px inset #000;
 background: #996B5E;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* left part inside box */
@@ -282,7 +282,7 @@ color: #000;
 border: 1px inset #000;
 background: #815852;
 color: #000;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* right part inside box */
@@ -290,7 +290,7 @@ color: #000;
 background: #ffeec6;
 border: 1px inset #000;
 border-left: none;
- font-family: Arial;
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* logo */
