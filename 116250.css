@@ -4,7 +4,7 @@ text-align:center;
 color:black;
 width:400px;
 height:200px;
-border:2px inset black;
+border:2px inset #4f3730;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -18,7 +18,7 @@ text-align:center;
 color:black;
 width:400px;
 height:200px;
-border:2px inset black;
+border:2px inset #4f3730;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -33,7 +33,7 @@ text-align:center;
 color:black;
 width:700px;
 height:60px;
-border:2px inset black;
+border:2px inset #4f3730;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -45,7 +45,7 @@ text-align:center;
 color:black;
 width:700px;
 height:255px;
-border:2px inset black;
+border:2px inset #4f3730;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -54,7 +54,7 @@ overflow:auto;
 div.boxfloat {
 background:#996B5E;
 color:black;
-border:2px inset black;
+border:2px inset #4f3730;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -75,14 +75,14 @@ h1, h3 , .sidebar h3 {
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif !important;
 text-align: left;
 color: #000;
-border-bottom: 1px inset #000;
+border-bottom: 1px inset #4f3730;
 }
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: #815852;
 color: #000;
-border: 1px inset #000;
+border: 1px inset #4f3730;
 text-shadow: none;
 font-weight: bold;
 font-size: 14px;
@@ -99,7 +99,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
-border-bottom: 1px inset #000000;
+border-bottom: 1px inset #4f3730;
 color: #000000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -108,7 +108,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .topbar {
 background: #996B5E;
-border: 2px inset #000;
+border: 2px inset #4f3730;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -116,7 +116,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 
 .badge {
 background: #996B5E;
-border: 2px inset #000;
+border: 2px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
@@ -124,14 +124,14 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .main {
 background: rgba(255, 238, 198, 0.21);
-border: 2px inset #000;
+border: 2px inset #4f3730;
 box-shadow: none;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .navbar {
 background: #996B5E;
-border-bottom: 2px inset #000;
+border-bottom: 2px inset #4f3730;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -144,8 +144,8 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 .navbar-default .navbar-nav li a:hover {
 color: #000;
 background: #815852;
-border-left: 1px inset #000;
-border-right: 1px inset #000;
+border-left: 1px inset #4f3730;
+border-right: 1px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 } 
  
@@ -155,16 +155,16 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .sidebar {
 background: rgba(255, 238, 198, 0.21);
-border: 0px solid #000;
-border-bottom: 2px inset #000;
-border-left: 2px inset #000;
+border: 0px solid #4f3730;
+border-bottom: 2px inset #4f3730;
+border-left: 2px inset #4f3730;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .col-md-3 .panel {
 background: #996B5E;
-border: 2px inset #000;
+border: 2px inset #4f3730;
 box-shadow: none;  
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -176,7 +176,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .progress {
 background: #ffeec6;
-border: 1px inset #000;
+border: 1px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 /* text on progress bars */
@@ -192,7 +192,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
 
 .chatContainer {
-border: 1px inset #000;
+border: 1px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
@@ -204,21 +204,21 @@ background: none;
 .alert-danger {
 color: #000000;
 background: #815852;
-border: 2px inset #000;
+border: 2px inset #4f3730;
  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .alert-success {
 color: #000;
 background: #ffeec6;
-border: 2px inset #000;
+border: 2px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 .breadcrumb {
 background:  #996B5E;
 font-size: 13px;
-border: 2px inset #000;
+border: 2px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
@@ -235,7 +235,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .col-md-9 {
 background: none;
-border: 0px inset #000;
+border: 0px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
@@ -244,12 +244,12 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 #lion_image {
 border-radius: 25px;
 overflow: hidden;
-border: 1px inset #000;
+border: 1px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
  
 .table, .item {
-border: 2px solid #000;
+border: 2px inset #4f3730;
 background: #996B5E;
 border-collapse: separate;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -257,13 +257,13 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 
 .table .right, .table .right_odd {
 background: none;
-border: 0px inset #000;
+border: 0px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
-border: 0px inset #000;
+border: 0px inset #4f3730;
 background: #996B5E;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -271,7 +271,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px inset #000;
+border: 1px inset #4f3730;
 background: #996B5E;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -279,7 +279,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 
 /* left part inside box */
 .table .left {
-border: 1px inset #000;
+border: 1px inset #4f3730;
 background: #815852;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -288,7 +288,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 /* right part inside box */
 .inner-table .right {
 background: #ffeec6;
-border: 1px inset #000;
+border: 1px inset #4f3730;
 border-left: none;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
