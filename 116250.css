@@ -309,7 +309,7 @@ background-color: #AE805C;
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  6F4B3A;
+background-color:  #6F4B3A;
 border-radius: 0px;
 border: none;
 }
