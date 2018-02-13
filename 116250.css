@@ -1,5 +1,5 @@
 div.box1 {
-background:#AE805C;
+background:#865a46;
 text-align:center;
 color:black;
 width:400px;
@@ -13,7 +13,7 @@ display: inline-block;
 
 
 div.box2 {
-background:#AE805C;
+background:#865a46;
 text-align:center;
 color:black;
 width:400px;
@@ -28,7 +28,7 @@ display: inline-block;
 
 
 div.box3 {
-background:#AE805C;
+background:#865a46;
 text-align:center;
 color:black;
 width:700px;
@@ -40,7 +40,7 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:#AE805C;
+background:#865a46;
 text-align:center;
 color:black;
 width:700px;
@@ -52,7 +52,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:#AE805C;
+background:#865a46;
 color:black;
 border:2px inset #4f3730;
 position:fixed;
@@ -107,7 +107,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 /* TOPBAR */
  
 .topbar {
-background: #AE805C;
+background: #865a46;
 border: 2px inset #4f3730;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -115,7 +115,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
 
 .badge {
-background: #AE805C;
+background: #865a46;
 border: 2px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -130,7 +130,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
  
 .navbar {
-background: #AE805C;
+background: #865a46;
 border-bottom: 2px inset #4f3730;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -163,7 +163,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
  
 .col-md-3 .panel {
-background: #AE805C;
+background: #865a46;
 border: 2px inset #4f3730;
 box-shadow: none;  
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -185,7 +185,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: #AE805C;
+background: #865a46;
 font-size: 11px;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -216,7 +216,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 }
 
 .breadcrumb {
-background:  #AE805C;
+background:  #865a46;
 font-size: 13px;
 border: 2px inset #4f3730;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
@@ -250,7 +250,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
  
 .table, .item {
 border: 2px inset #4f3730;
-background: #AE805C;
+background: #865a46;
 border-collapse: separate;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -264,7 +264,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px inset #4f3730;
-background: #AE805C;
+background: #865a46;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -272,7 +272,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px inset #4f3730;
-background: #AE805C;
+background: #865a46;
 color: #000;
 font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
@@ -295,7 +295,7 @@ font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Tim
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/g8SzG5S.png')}
+ content: url('https://i.imgur.com/4zQUrgl.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
@@ -304,7 +304,7 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #AE805C;
+background-color: #865a46;
 }
   
 /* The thingy that moves */
