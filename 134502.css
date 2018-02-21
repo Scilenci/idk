@@ -6,7 +6,7 @@ width:700px;
 height:60px;
 border:3px double black;
  transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:hidden;
 }
 
@@ -18,7 +18,7 @@ width:700;
 height:255px;
 border:3px double black;
 transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:auto;
 }
 
@@ -30,7 +30,7 @@ width:233px;
 height:60px;
 border:3px double black;
  transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:hidden;
 display: inline-block
 }
@@ -43,7 +43,7 @@ width:233px;
 height:233px;
 border:3px double black;
 transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:auto;
 display: inline-block
 }
@@ -56,7 +56,7 @@ width:233px;
 height:60px;
 border:3px double black;
  transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:hidden;
 display: inline-block
 }
@@ -69,7 +69,7 @@ width:233px;
 height:233px;
 border:3px double black;
 transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:auto;
 display: inline-block
 }
@@ -82,7 +82,7 @@ width:233px;
 height:60px;
 border:3px double black;
  transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:hidden;
 display: inline-block
 }
@@ -95,7 +95,7 @@ width:233px;
 height:233px;
 border:3px double black;
 transition:all ease 2s;
-border-radius:5px;
+border-radius:10px;
 overflow:auto;
 display: inline-block
 }
@@ -106,7 +106,7 @@ color:black;
 border:3px double black;
 position:fixed;
 text-align:center;
-border-radius:5px;
+border-radius:10px;
 left:0px;
 bottom:0px;
 width:165px;
@@ -120,7 +120,7 @@ color:black;
 border:0px double black;
 position:fixed;
 text-align:center;
-border-radius:5px;
+border-radius:10px;
 right:0px;
 bottom:0px;
 width:150px;
