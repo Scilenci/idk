@@ -1,0 +1,405 @@
+div.box1 {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:700;
+height:255px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+display: inline-block
+}
+
+.box2:hover {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:233px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+display: inline-block
+}
+
+div.box3 {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+display: inline-block
+}
+
+.box3:hover {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:233px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+display: inline-block
+}
+
+div.box4 {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+display: inline-block
+}
+
+.box4:hover {
+background:rgba(72, 78, 82, 0.80);
+text-align:center;
+color:black;
+width:233px;
+height:233px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+display: inline-block
+}
+
+div.boxfloat {
+background:rgba(72, 78, 82, 0.80);
+color:black;
+border:3px double black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:100px;
+overflow:auto;
+}
+
+div.boxfloat2 {
+background:rgba(72, 78, 82, 0.00);
+color:black;
+border:0px double black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+right:0px;
+bottom:0px;
+width:150px;
+height:150px;
+overflow:hidden;
+}
+
+body {background: url("https://i.imgur.com/zdXIPme.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: 'Nixie One', "Courier New", cursive !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(227, 205, 179, 0.80);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: rgba(72, 78, 82, 0.80);
+border: 3px double #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.badge {
+background: rgba(72, 78, 82, 0.80);
+border: 3px double #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(72, 78, 82, 0.21);
+border: 3px double #000;
+box-shadow: none;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.navbar {
+background: rgba(72, 78, 82, 0.80);
+border-bottom: 3px double #000;
+color: #000;
+font-family: 'Nixie One', "Courier New" cursive;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #e3cdb3;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: 'Nixie One', "Courier New", cursive;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(72, 78, 82, 0.21);
+border: 0px solid #000;
+border-bottom: 3px double #000;
+border-left: 3px double #000;
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.col-md-3 .panel {
+background: rgba(72, 78, 82, 0.80);
+border: 3px double #000;
+box-shadow: none;  
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.progress-bar {
+background: #e3cdb3;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.progress {
+background: #afb9c5;
+border: 1px solid #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(72, 78, 82, 0.80);
+font-size: 11px;
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.userstolen {
+background: none;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(227, 205, 179, 0.80);
+border: 3px double #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.alert-success {
+color: #000;
+background: rgba(227, 205, 179, 0.80);
+border: 3px double #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.breadcrumb {
+background:  rgba(72, 78, 82, 0.80);
+font-size: 13px;
+border: 3px double #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;font-family: 
+ 'Nixie One', "Courier New" cursive;
+}
+ 
+.table, .item {
+border: 3px double #000;
+background: rgba(72, 78, 82, 0.80);
+border-collapse: separate;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(72, 78, 82, 0.80);
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 3px double #000;
+background: #484e52;
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: rgba(227, 205, 179, 0.80);
+color: #000;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: rgba(175, 185, 197, 0.80);
+border: 1px solid #000;
+border-left: none;
+font-family: 'Nixie One', "Courier New", cursive;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/cZ3IuAb.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #484e52;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #e3cdb3;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
+
