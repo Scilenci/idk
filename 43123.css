@@ -1,0 +1,374 @@
+div.box1 {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:700;
+height:255px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:1000px;
+height:700px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:700px;
+height:60px;
+border:3px double black;
+ transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:rgba(178, 30, 30, 0.80);
+text-align:center;
+color:black;
+width:700px;
+height:400px;
+border:3px double black;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:rgba(178, 30, 30, 0.80);
+color:black;
+border:3px double black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:100px;
+overflow:auto;
+}
+
+div.boxfloat2 {
+background:rgba(178, 30, 30, 0.00);
+color:black;
+border:0px double black;
+position:fixed;
+text-align:center;
+border-radius:5px;
+right:0px;
+bottom:0px;
+width:150px;
+height:150px;
+overflow:hidden;
+}
+
+body {background: url("https://i.imgur.com/MG9GV2e.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: 'UnifrakturCook', Arial, cursive !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(168, 28, 28, 0.80);
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: rgba(178, 30, 30, 0.80);
+border: 3px double #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.badge {
+background: rgba(178, 30, 30, 0.80);
+border: 3px double #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(164, 164, 164, 0.21);
+border: 3px double #000;
+box-shadow: none;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.navbar {
+background: rgba(178, 30, 30, 0.80);
+border-bottom: 3px double #000;
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #A81C1C;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(164, 164, 164, 0.21);
+border: 0px solid #000;
+border-bottom: 3px double #000;
+border-left: 3px double #000;
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.col-md-3 .panel {
+background: rgba(178, 30, 30, 0.80);
+border: 3px double #000;
+box-shadow: none;  
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.progress-bar {
+background: #A81C1C;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.progress {
+background: #BF1C1C;
+border: 1px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+/* text on progress bars */
+.progress div {color: #000;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(178, 30, 30, 0.80);
+font-size: 11px;
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.chatContainer {
+border: 1px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.userstolen {
+background: none;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(168, 28, 28, 0.80);
+border: 3px double #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.alert-success {
+color: #000;
+background: rgba(191, 28, 28, 0.80);
+border: 3px double #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.breadcrumb {
+background:  rgba(178, 30, 30, 0.80);
+font-size: 13px;
+border: 3px double #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.breadcrumb>.active {
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+ 
+.table, .item {
+border: 3px double #000;
+background: rgba(178, 30, 30, 0.80);
+border-collapse: separate;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(178, 30, 30, 0.80);
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 3px double #000;
+background: #B21E1E;
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px solid #000;
+background: rgba(168, 28, 28, 0.80);
+color: #000;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: rgba(191, 28, 28, 0.80);
+border: 1px solid #000;
+border-left: none;
+font-family: 'UnifrakturCook', Arial, cursive;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/nRFZmEE.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #B21E1E;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #A81C1C;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
