@@ -157,18 +157,18 @@ font-family: 'Nixie One', "Courier New", cursive;
 /* LINKS */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #000000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px inset #484e52;
-color: #000000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
-a:hover{
- color: #C0C0C0;
+a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top a:hover, .tabler .top a:hover, .table th a:hover{
+ color: #000;
 }
  
 /* TOPBAR */
