@@ -178,6 +178,22 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 .right a:hover{
  color:#C0C0C0;
 }
+
+.table .right a:link, .table .right_odd a:link{
+ color:#C0C0C0;
+}
+
+.table .right a:hover, .table .right_odd a:hover{
+ color:#000;
+}
+
+.inner-table .right a:link{
+ color:#000;
+}
+
+.inner-table .right a:link{
+ color:#C0C0C0;
+}
  
 /* TOPBAR */
  
