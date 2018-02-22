@@ -179,7 +179,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
  color:#C0C0C0;
 }
 
-.table .right a:link, .table .right_odd a:link{
+.table .right a:link, .table .right_odd a:link, .table .right a:visited, .table .right_odd a:visited, .table .right a:active, .table .right_odd a:active{
  color:#C0C0C0;
 }
 
@@ -187,11 +187,11 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
  color:#000;
 }
 
-.inner-table .right a:link{
+.inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
  color:#000;
 }
 
-.inner-table .right a:link{
+.inner-table .right a:hover{
  color:#C0C0C0;
 }
  
