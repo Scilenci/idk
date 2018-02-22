@@ -321,6 +321,7 @@ border: 2px inset #484e52;
 background: rgba(72, 78, 82, 0.80);
 border-collapse: separate;
 font-family: 'Nixie One', "Courier New", cursive;
+ color:#C0C0C0;
 }
 
 .table .right, .table .right_odd {
