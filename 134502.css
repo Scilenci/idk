@@ -161,7 +161,7 @@ color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
-.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited, .table .item a:link, .table .item a:active, .table .item a:visited,{
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited, .table .item a:link, .table .item a:active, .table .item a:visited{
 border-bottom: 1px inset #484e52;
 color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -176,7 +176,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .right a:hover{
- color:#000;
+ color:#C0C0C0;
 }
  
 /* TOPBAR */
