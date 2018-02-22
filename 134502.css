@@ -1,7 +1,7 @@
 div.box1 {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:700px;
 height:60px;
 border:2px inset #484e52;
@@ -13,7 +13,7 @@ overflow:hidden;
 .box1:hover {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:700;
 height:255px;
 border:2px inset #484e52;
@@ -25,7 +25,7 @@ overflow:auto;
 div.box2 {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:60px;
 border:2px inset #484e52;
@@ -38,7 +38,7 @@ display: inline-block
 .box2:hover {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:233px;
 border:2px inset #484e52;
@@ -51,7 +51,7 @@ display: inline-block
 div.box3 {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:60px;
 border:2px inset #484e52;
@@ -64,7 +64,7 @@ display: inline-block
 .box3:hover {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:233px;
 border:2px inset #484e52;
@@ -77,7 +77,7 @@ display: inline-block
 div.box4 {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:60px;
 border:2px inset #484e52;
@@ -90,7 +90,7 @@ display: inline-block
 .box4:hover {
 background:rgba(72, 78, 82, 0.80);
 text-align:center;
-color:black;
+color:#C0C0C0;
 width:233px;
 height:233px;
 border:2px inset #484e52;
@@ -102,7 +102,7 @@ display: inline-block
 
 div.boxfloat {
 background:rgba(72, 78, 82, 0.80);
-color:black;
+color:#C0C0C0;
 border:2px inset #484e52;
 position:fixed;
 text-align:center;
@@ -116,7 +116,7 @@ overflow:auto;
 
 div.boxfloat2 {
 background:rgba(72, 78, 82, 0.00);
-color:black;
+color:#C0C0C0;
 border:0px inset #484e52;
 position:fixed;
 text-align:center;
@@ -131,13 +131,13 @@ overflow:hidden;
 body {background: url("https://i.imgur.com/zdXIPme.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #C0C0C0;
 }
 
 h1, h3 , .sidebar h3 {
 font-family: 'Nixie One', "Courier New", cursive !important;
 text-align: center;
-color: #000;
+color: #C0C0C0;
 border-bottom:2px inset #484e52;
 }
 
@@ -165,6 +165,10 @@ font-family: 'Nixie One', "Courier New", cursive;
 border-bottom: 1px inset #484e52;
 color: #000000;
 font-family: 'Nixie One', "Courier New", cursive;
+}
+
+a:hover{
+ color: #C0C0C0
 }
  
 /* TOPBAR */
@@ -195,12 +199,12 @@ font-family: 'Nixie One', "Courier New", cursive;
 .navbar {
 background: rgba(72, 78, 82, 0.80);
 border-bottom: 2px inset #484e52;
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New" cursive;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -221,7 +225,7 @@ background: rgba(72, 78, 82, 0.21);
 border: 0px solid #000;
 border-bottom: 2px inset #484e52;
 border-left: 2px inset #484e52;
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -250,7 +254,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 .chat_light, .chat_dark {
 background: rgba(72, 78, 82, 0.80);
 font-size: 11px;
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
@@ -286,13 +290,14 @@ font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .breadcrumb>.active {
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #000;
+color: #C0C0C0;
+ text-align: center;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -328,7 +333,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px inset #484e52;
 background: rgba(72, 78, 82, 0.80);
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
@@ -336,7 +341,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 .cave-grid, div .left, .mound-grid {
 border: 2px inset #484e52;
 background: #484e52;
-color: #000;
+color: #C0C0C0;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
