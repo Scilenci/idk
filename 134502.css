@@ -360,6 +360,7 @@ background: rgba(227, 205, 179, 0.80);
 border: 2px inset #484e52;
 border-left: none;
 font-family: 'Nixie One', "Courier New", cursive;
+ color:#000;
 }
 
 /* logo */
