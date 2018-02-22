@@ -4,7 +4,7 @@ text-align:center;
 color:black;
 width:700px;
 height:60px;
-border:1px inset #484e52;
+border:2px inset #484e52;
  transition:all ease 2s;
 border-radius:10px;
 overflow:hidden;
@@ -16,7 +16,7 @@ text-align:center;
 color:black;
 width:700;
 height:255px;
-border:1px inset #484e52;
+border:2px inset #484e52;
 transition:all ease 2s;
 border-radius:10px;
 overflow:auto;
@@ -28,7 +28,7 @@ text-align:center;
 color:black;
 width:233px;
 height:60px;
-border:1px inset #484e52;
+border:2px inset #484e52;
  transition:all ease 2s;
 border-radius:10px;
 overflow:hidden;
@@ -41,7 +41,7 @@ text-align:center;
 color:black;
 width:233px;
 height:233px;
-border:1px inset #484e52;
+border:2px inset #484e52;
 transition:all ease 2s;
 border-radius:10px;
 overflow:auto;
@@ -54,7 +54,7 @@ text-align:center;
 color:black;
 width:233px;
 height:60px;
-border:1px inset #484e52;
+border:2px inset #484e52;
  transition:all ease 2s;
 border-radius:10px;
 overflow:hidden;
@@ -67,7 +67,7 @@ text-align:center;
 color:black;
 width:233px;
 height:233px;
-border:1px inset #484e52;
+border:2px inset #484e52;
 transition:all ease 2s;
 border-radius:10px;
 overflow:auto;
@@ -80,7 +80,7 @@ text-align:center;
 color:black;
 width:233px;
 height:60px;
-border:1px inset #484e52;
+border:2px inset #484e52;
  transition:all ease 2s;
 border-radius:10px;
 overflow:hidden;
@@ -93,7 +93,7 @@ text-align:center;
 color:black;
 width:233px;
 height:233px;
-border:1px inset #484e52;
+border:2px inset #484e52;
 transition:all ease 2s;
 border-radius:10px;
 overflow:auto;
@@ -103,7 +103,7 @@ display: inline-block
 div.boxfloat {
 background:rgba(72, 78, 82, 0.80);
 color:black;
-border:1px inset #484e52;
+border:2px inset #484e52;
 position:fixed;
 text-align:center;
 border-radius:10px;
@@ -136,16 +136,16 @@ color: #000;
 
 h1, h3 , .sidebar h3 {
 font-family: 'Nixie One', "Courier New", cursive !important;
-text-align: left;
+text-align: center;
 color: #000;
-border-bottom: 1px inset #484e52;
+border-bottom:2px inset #484e52;
 }
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(227, 205, 179, 0.80);
 color: #000;
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 text-shadow: none;
 font-weight: bold;
 font-size: 14px;
@@ -171,7 +171,7 @@ font-family: 'Nixie One', "Courier New", cursive;
  
 .topbar {
 background: rgba(72, 78, 82, 0.80);
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -179,7 +179,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 
 .badge {
 background: rgba(72, 78, 82, 0.80);
-border: 1px inset #484e52;
+border:2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -187,14 +187,14 @@ font-family: 'Nixie One', "Courier New", cursive;
  
 .main {
 background: rgba(72, 78, 82, 0.21);
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 box-shadow: none;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .navbar {
 background: rgba(72, 78, 82, 0.80);
-border-bottom: 1px inset #484e52;
+border-bottom: 2px inset #484e52;
 color: #000;
 font-family: 'Nixie One', "Courier New" cursive;
 }
@@ -207,8 +207,8 @@ font-family: 'Nixie One', "Courier New", cursive;
 .navbar-default .navbar-nav li a:hover {
 color: #000;
 background: #e3cdb3;
-border-left: 1px inset #484e52;
-border-right: 1px inset #484e52;
+border-left: 2px inset #484e52;
+border-right: 2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 } 
  
@@ -219,15 +219,15 @@ font-family: 'Nixie One', "Courier New", cursive;
 .sidebar {
 background: rgba(72, 78, 82, 0.21);
 border: 0px solid #000;
-border-bottom: 1px inset #484e52;
-border-left: 1px inset #484e52;
+border-bottom: 2px inset #484e52;
+border-left: 2px inset #484e52;
 color: #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .col-md-3 .panel {
 background: rgba(72, 78, 82, 0.80);
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 box-shadow: none;  
 font-family: 'Nixie One', "Courier New", cursive;
 }
@@ -239,7 +239,7 @@ font-family: 'Nixie One', "Courier New", cursive;
  
 .progress {
 background: #e3cdb3;
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 /* text on progress bars */
@@ -255,7 +255,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 }
 
 .chatContainer {
-border: 1px solid #000;
+border: 2px inset #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -267,21 +267,21 @@ font-family: 'Nixie One', "Courier New", cursive;
 .alert-danger {
 color: #000000;
 background: rgba(227, 205, 179, 0.80);
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
 .alert-success {
 color: #000;
 background: rgba(227, 205, 179, 0.80);
-border: 3px inset #484e52;
+border: 2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
 .breadcrumb {
 background:  rgba(72, 78, 82, 0.80);
 font-size: 13px;
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
@@ -307,12 +307,12 @@ font-family: 'Nixie One', "Courier New", cursive;
 #lion_image {
 border-radius: 25px;
 overflow: hidden;
-border: 1px inset #484e52;
+border: 2px inset #484e52;
  font-family:'Nixie One', "Courier New" cursive;
 }
  
 .table, .item {
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 background: rgba(72, 78, 82, 0.80);
 border-collapse: separate;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -334,7 +334,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 background: #484e52;
 color: #000;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -342,7 +342,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 
 /* left part inside box */
 .table .left {
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 background: rgba(227, 205, 179, 0.80);
 color: #000;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -351,7 +351,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 /* right part inside box */
 .inner-table .right {
 background: rgba(227, 205, 179, 0.80);
-border: 1px inset #484e52;
+border: 2px inset #484e52;
 border-left: none;
 font-family: 'Nixie One', "Courier New", cursive;
 }
