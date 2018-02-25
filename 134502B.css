@@ -194,7 +194,7 @@ background: #66554a;
 }
  
 .progress {
-background: #c4b0a7;
+background: #a28773;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
@@ -229,7 +229,7 @@ border: 1px solid #000;
 
 .alert-success {
 color: #000;
-background: rgba(196, 176, 167, 0.7);
+background: rgba(162, 135, 115, 0.7);
 border: 1px solid #000;
  font-family: Arial;
 }
@@ -306,7 +306,7 @@ color: #000;
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(196, 176, 167, 0.7);
+background: rgba(162, 135, 115, 0.7);
 border: 1px solid #000;
 border-left: none;
  font-family: Arial;
