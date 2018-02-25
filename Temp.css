@@ -1,8 +1,7 @@
-
 div.box1 {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700px;
 height:60px;
 border:1px solid black;
@@ -12,9 +11,9 @@ overflow:hidden;
 }
 
 .box1:hover {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700;
 height:255px;
 border:1px solid black;
@@ -24,9 +23,9 @@ overflow:auto;
 }
 
 div.box2 {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700px;
 height:60px;
 border:1px solid black;
@@ -36,9 +35,9 @@ overflow:hidden;
 }
 
 .box2:hover {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700px;
 height:255px;
 border:1px solid black;
@@ -48,9 +47,9 @@ overflow:auto;
 }
 
 div.box3 {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700px;
 height:60px;
 border:1px solid black;
@@ -60,9 +59,9 @@ overflow:hidden;
 }
 
 .box3:hover {
-background:rgba(175, 107, 61, 0.21);
+background:rgba(126, 102, 82, 0.7);
 text-align:center;
-color:black;
+color:#ebe5e0;
 width:700px;
 height:255px;
 border:1px solid black;
@@ -72,8 +71,8 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:rgba(190,155,123,.7);
-color:black;
+background:rgba(126, 102, 82,.7);
+color:#ebe5e0;
 border:1px solid black;
 position:fixed;
 text-align:center;
@@ -85,23 +84,23 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("http://99pcwallpapers.com/wp-content/uploads/Roaring-lion-beautiful-images-desktop-fullscreen-wallpapers.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/oqbQzRX.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #ebe5e0;
 }
 
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #000;
+color: #ebe5e0;
 border-bottom: 1px solid #000;
 }
 
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(175, 107, 61, 0.21);
-color: #000;
+background: rgba(102, 85, 74, 0.7);
+color: #ebe5e0;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
@@ -114,56 +113,59 @@ border-radius: 5px;
 /* LINKS */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #000000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #000000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 /* TOPBAR */
  
 .topbar {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
  font-family: Arial;
+ color: #ebe5e0;
 }
 
 .badge {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 border: 1px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 /* NAVBAR */
  
 .main {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.5);
 border: 1px solid #000;
 box-shadow: none;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 .navbar {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 border-bottom: 1px solid #000;
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 .navbar-default .navbar-nav > li > a {
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #000;
-background: #AF6B3D;
+color: #ebe5e0;
+background: #66554a;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
@@ -174,82 +176,86 @@ border-right: 1px solid #000;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 .col-md-3 .panel {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 border: 1px solid #000;
 box-shadow: none;  
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 .progress-bar {
-background: #AF6B3D;
+background: #66554a;
  font-family: Arial;
 }
  
 .progress {
-background: #f7f7f7;
+background: #a28773;
 border: 1px solid #000;
  font-family: 'Special Elite', Arial ,cursive;
 }
 /* text on progress bars */
-.progress div {color: #000;}
+.progress div {color: #ebe5e0;}
  
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 font-size: 11px;
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
 
 .chatContainer {
 border: 1px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 .userstolen {
 background: none;
  font-family: Arial;
+ color: #ebe5e0;
 }
 
 .alert-danger {
-color: #000000;
-background: rgba(175, 107, 61, 0.21);
+color: #ebe5e0;
+background: rgba(102, 85, 74, 0.7);
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .alert-success {
-color: #000;
-background: rgba(175, 107, 61, 0.21);
+color: #ebe5e0;
+background: rgba(162, 135, 115, 0.7);
 border: 1px solid #000;
  font-family: Arial;
 }
 
 .breadcrumb {
-background:  rgba(175, 107, 61, 0.21);
+background:  rgba(126, 102, 82, 0.7);
 font-size: 13px;
 border: 1px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 .breadcrumb>.active {
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #000;
+color: #ebe5e0;
  font-family: Arial;
 }
  
@@ -257,6 +263,7 @@ color: #000;
 background: none;
 border: 0px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 /* TABLES */
@@ -266,56 +273,60 @@ border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
+background: rgba(126, 102, 82, 0.7);
 border-collapse: separate;
  font-family: Arial;
+ color: #ebe5e0;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
  font-family: Arial;
+ color: #ebe5e0;
 }
 
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(175, 107, 61, 0.21);
-color: #000;
+background: rgba(126, 102, 82, 0.7);
+color: #ebe5e0;
  font-family: Arial;
 }
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #AF6B3D;
-color: #000;
+background: #7E6652;
+color: #ebe5e0;
  font-family: Arial;
 }
 
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(175, 107, 61, 0.21);
-color: #000;
+background: rgba(102, 85, 74, 0.7);
+color: #ebe5e0;
  font-family: Arial;
 }
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(175, 107, 61, 0.21);
+background: rgba(162, 135, 115, 0.7);
 border: 1px solid #000;
 border-left: none;
  font-family: Arial;
+ color: #ebe5e0;
 }
 
 /* logo */
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
- content: url('https://i.imgur.com/jMZkN1X.png')}
+ content: url('https://i.imgur.com/hlp2GsC.png')}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
@@ -324,12 +335,12 @@ width: 10px;
   
 /* part the scroll sits on*/
 ::-webkit-scrollbar-track {
-background-color: #8d8f8e;
+background-color: #7E6652;
 }
   
 /* The thingy that moves */
 ::-webkit-scrollbar-thumb {
-background-color:  rgb(39, 51, 55);
+background-color:  #66554a;
 border-radius: 0px;
 border: none;
 }
@@ -343,7 +354,7 @@ select {color:black!important;}
 
  
  /* fill in for extra info */
- 
+
  
  /* HTML is 
 <div class="box1"> 
