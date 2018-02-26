@@ -122,6 +122,36 @@ border-bottom: 1px groove #2788C2;
 color: #000;
 font-family: 'Comic Sans MS';
 }
+
+a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top a:hover, .tabler .top a:hover, .table th a:hover, .table .item a:hover{
+ color: #000;
+}
+
+.right a:link, .right a:active, .right a:visited{
+ color:#000;
+}
+
+.right a:hover{
+ color:#2788C2;
+}
+
+.table .right a:link, .table .right_odd a:link, .table .right a:visited, .table .right_odd a:visited, .table .right a:active, .table .right_odd a:active{
+ color:#2788C2;
+}
+
+.table .right a:hover, .table .right_odd a:hover{
+ color:#000;
+}
+
+.inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
+ color:#000;
+}
+
+.inner-table .right a:hover{
+ color:#2788C2;
+}
+ 
+/* TO
  
 /* TOPBAR */
  
