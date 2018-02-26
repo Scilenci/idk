@@ -128,7 +128,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .right a:link, .right a:active, .right a:visited{
- color:#000;
+ color:#2788C2;
 }
 
 .right a:hover{
@@ -144,7 +144,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
- color:#000;
+ color:#2788C2;
 }
 
 .inner-table .right a:hover{
