@@ -100,7 +100,7 @@ border-bottom: 1px groove #2788C2;
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(232, 192, 216, 0.7);
-color: #000;
+color: #422957;
 border: 1px solid #2788C2;
 text-shadow: none;
 font-weight: bold;
@@ -124,7 +124,7 @@ font-family: 'Comic Sans MS';
 }
 
 a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top a:hover, .tabler .top a:hover, .table th a:hover, .table .item a:hover{
- color: #000;
+ color: #422957;
 }
 
 .right a:link, .right a:active, .right a:visited{
@@ -140,11 +140,11 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .table .right a:hover, .table .right_odd a:hover{
- color:#000;
+ color:#422957;
 }
 
 .inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
- color:#000;
+ color:#422957;
 }
 
 .inner-table .right a:hover{
@@ -193,7 +193,7 @@ font-family: 'Comic Sans MS';
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #000;
+color: #422957;
 background: #ffe6fe;
 border-left: 1px solid #2788C2;
 border-right: 1px solid #2788C2;
@@ -256,14 +256,14 @@ font-family: 'Comic Sans MS';
 }
 
 .alert-danger {
-color: #000;
+color: #422957;
 background: rgba(232, 192, 216, 0.7);
 border: 1px groove #2788C2;
 font-family: 'Comic Sans MS';
 }
 
 .alert-success {
-color: #000;
+color: #422957;
 background: rgba(184, 155, 208, 0.7);
 border: 1px groove #2788C2;
 font-family: 'Comic Sans MS';
@@ -340,7 +340,7 @@ font-family: 'Comic Sans MS';
 .table .left {
 border: 1px solid #2788C2;
 background: rgba(232, 192, 216, 0.7);
-color: #000;
+color: #422957;
 font-family: 'Comic Sans MS';
 }
 
@@ -350,7 +350,7 @@ background: rgba(184, 155, 208, 0.7);
 border: 1px solid #2788C2;
 border-left: none;
 font-family: 'Comic Sans MS';
- color: #000;
+ color: #422957;
 }
 
 /* logo */
