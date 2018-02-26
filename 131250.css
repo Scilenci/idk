@@ -4,7 +4,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -16,7 +16,7 @@ text-align:center;
 color:#000;
 width:700;
 height:255px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -28,7 +28,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -40,7 +40,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:255px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -52,7 +52,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -64,7 +64,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:255px;
-border:1px solid black;
+border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -73,7 +73,7 @@ overflow:auto;
 div.boxfloat {
 background:rgba(202, 219, 255,.7);
 color:#000;
-border:1px solid black;
+border:1px dotted black;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -91,10 +91,10 @@ color: #000;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: 'Comic Sans MS' !important;
 text-align: left;
 color: #000;
-border-bottom: 1px solid #000;
+border-bottom: 1px dotted #000;
 }
 
 /* BUTTONS */
@@ -106,7 +106,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
  
@@ -114,51 +114,51 @@ border-radius: 5px;
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
-border-bottom: 1px solid #000000;
+border-bottom: 1px dotted #000000;
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 /* TOPBAR */
  
 .topbar {
 background: rgba(202, 219, 255, 0.7);
-border: 1px solid #000;
+border: 1px dotted #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
 
 .badge {
 background: rgba(202, 219, 255, 0.7);
-border: 1px solid #000;
- font-family: Arial;
+border: 1px dotted #000;
+font-family: 'Comic Sans MS';
 }
  
 /* NAVBAR */
  
 .main {
 background: rgba(252, 206, 253, 0.5);
-border: 1px solid #000;
+border: 1px dotted #000;
 box-shadow: none;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
 .navbar {
 background: rgba(202, 219, 255, 0.7);
-border-bottom: 1px solid #000;
+border-bottom: 1px dotted #000;
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -166,7 +166,7 @@ color: #000;
 background: #ffe6fe;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: 'Comic Sans MS';
 } 
  
  
@@ -175,30 +175,30 @@ border-right: 1px solid #000;
  
 .sidebar {
 background: rgba(252, 206, 253, 0.21);
-border: 0px solid #000;
-border-bottom: 1px solid #000;
-border-left: 1px solid #000;
+border: 0px dotted #000;
+border-bottom: 1px dotted #000;
+border-left: 1px dotted #000;
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .col-md-3 .panel {
 background: rgba(202, 219, 255, 0.7);
-border: 1px solid #000;
+border: 1px dotted #000;
 box-shadow: none;  
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
 .progress-bar {
 background: #ffe6fe;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .progress {
 background: #D1DFFF;
 border: 1px solid #000;
- font-family: 'Special Elite', Arial ,cursive;
+font-family: 'Comic Sans MS';
 }
 /* text on progress bars */
 .progress div {color: #000;}
@@ -209,58 +209,58 @@ border: 1px solid #000;
 background: rgba(202, 219, 255, 0.7);
 font-size: 11px;
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
 
 .chatContainer {
 border: 1px solid #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
 .userstolen {
 background: none;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
 
 .alert-danger {
 color: #000;
 background: rgba(202, 219, 255, 0.7);
-border: 1px solid #000;
- font-family: Arial;
+border: 1px dotted #000;
+font-family: 'Comic Sans MS';
 }
 
 .alert-success {
 color: #000;
 background: rgba(202, 219, 255, 0.7);
-border: 1px solid #000;
- font-family: Arial;
+border: 1px dotted #000;
+ font-family: 'Comic Sans MS';
 }
 
 .breadcrumb {
 background:  rgba(202, 219, 255, 0.7);
 font-size: 13px;
-border: 1px solid #000;
- font-family: Arial;
+border: 1px dotted #000;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
 .breadcrumb>.active {
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
  
 .col-md-9 {
 background: none;
-border: 0px solid #000;
- font-family: Arial;
+border: 0px dotted #000;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
@@ -270,22 +270,22 @@ border: 0px solid #000;
 border-radius: 25px;
 overflow: hidden;
 border: 1px solid #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
  
 .table, .item {
-border: 1px solid #000;
+border: 1px dotted #000;
 background: rgba(202, 219, 255, 0.7);
 border-collapse: separate;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
 
 .table .right, .table .right_odd {
 background: none;
 border: 0px solid #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
 
@@ -294,15 +294,15 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 border: 0px solid #000;
 background: rgba(202, 219, 255, 0.7);
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px solid #000;
+border: 1px dotted #000;
 background: #D1DFFF;
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
 
 /* left part inside box */
@@ -310,7 +310,7 @@ color: #000;
 border: 1px solid #000;
 background: rgba(255, 221, 254, 0.7);
 color: #000;
- font-family: Arial;
+font-family: 'Comic Sans MS';
 }
 
 /* right part inside box */
@@ -318,7 +318,7 @@ color: #000;
 background: rgba(255, 221, 254, 0.7);
 border: 1px solid #000;
 border-left: none;
- font-family: Arial;
+font-family: 'Comic Sans MS';
  color: #000;
 }
 
@@ -350,6 +350,7 @@ input[tpye="text"] {color:black!important;}
 
 select {color:black!important;}
 
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-6/nat598.cur), progress !important;} /* End http://www.cursors-4u.com */
  
  /* fill in for extra info */
 
