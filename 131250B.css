@@ -112,12 +112,12 @@ font-family: 'Comic Sans MS';
  
 /* LINKS */
  
-.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+.table a:link, .table a:active, .table a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #000;
 font-family: 'Comic Sans MS';
 }
  
-.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited, .table .item a:link, .table .item a:active, .table .item a:visited{
 border-bottom: 1px groove #2788C2;
 color: #000;
 font-family: 'Comic Sans MS';
