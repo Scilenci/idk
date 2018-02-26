@@ -300,14 +300,14 @@ font-family: 'Comic Sans MS';
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #2788C2;
-background: #2788C2;
+background: #002a66;
 color: #000;
 font-family: 'Comic Sans MS';
 }
 
 /* left part inside box */
 .table .left {
-border: 1px solid #002a66;
+border: 1px solid #2788C2;
 background: rgba(232, 192, 216, 0.7);
 color: #000;
 font-family: 'Comic Sans MS';
