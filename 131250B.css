@@ -113,13 +113,13 @@ font-family: 'Comic Sans MS';
 /* LINKS */
  
 .table a:link, .table a:active, .table a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #000;
+color: #2788C2;
 font-family: 'Comic Sans MS';
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited, .table .item a:link, .table .item a:active, .table .item a:visited{
 border-bottom: 1px groove #2788C2;
-color: #000;
+color: #2788C2;
 font-family: 'Comic Sans MS';
 }
 
@@ -144,7 +144,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
- color:#2788C2;
+ color:#000;
 }
 
 .inner-table .right a:hover{
