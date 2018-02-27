@@ -163,7 +163,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
  color: #ca97d6;
 }
 
-.right a:link,{
+a:link, a:visited, a:active {
  color: #ca97d6;
 }
  
