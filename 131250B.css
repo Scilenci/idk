@@ -162,6 +162,10 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 .alert-success a:link, .alert-success a:visited, .alert-success a:active, .alert-danger a:link, .alert-danger a:visited, .alert-danger a:active,{
  color: #ca97d6;
 }
+
+a:link,{
+ color: #ca97d6;
+}
  
  
 /* TO
