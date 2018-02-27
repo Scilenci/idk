@@ -167,7 +167,7 @@ a:link, a:visited, a:active {
  color: #ca97d6;
 }
 
-.col-md-3 a:link, .col-md-3 a:visited, .col-md-3 a:active, .panel a:link, .panel a:visited, .panel a:active, .badge a:link, .badge a:visited, .badge a:active{
+.col-md-3 a:link, .col-md-3 a:visited, .col-md-3 a:active, .panel a:link, .panel a:visited, .panel a:active, .badge a:link, .badge a:visited, .badge a:active, .col-md-9 a:link, .col-md-9 a:visited, .col-md-9 a:active{
  color:#2788C2;
 }
  
