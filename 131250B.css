@@ -124,7 +124,7 @@ font-family: 'Comic Sans MS';
 }
 
 a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top a:hover, .tabler .top a:hover, .table th a:hover, .table .item a:hover{
- color: #422957;
+ color: #ca97d6;
 }
 
 .right a:link, .right a:active, .right a:visited{
@@ -135,16 +135,24 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
  color:#2788C2;
 }
 
+.left a:link, .left a:active, .left a:visited{
+ color:#6243b7;
+}
+
+.left a:hover{
+ color:#6243b7;
+}
+
 .table .right a:link, .table .right_odd a:link, .table .right a:visited, .table .right_odd a:visited, .table .right a:active, .table .right_odd a:active{
  color:#2788C2;
 }
 
 .table .right a:hover, .table .right_odd a:hover{
- color:#422957;
+ color:#ca97d6;
 }
 
 .inner-table .right a:link, .inner-table .right a:visited, .inner-table .right a:active{
- color:#422957;
+ color:#ca97d6;
 }
 
 .inner-table .right a:hover{
@@ -232,7 +240,7 @@ border: 1px solid #2788C2;
 font-family: 'Comic Sans MS';
 }
 /* text on progress bars */
-.progress div {color: #422957;}
+.progress div {color: #6243b7;}
  
 /* CHAT */
  
@@ -340,7 +348,7 @@ font-family: 'Comic Sans MS';
 .table .left {
 border: 1px solid #2788C2;
 background: rgba(232, 192, 216, 0.7);
-color: #422957;
+color: #6243b7;
 font-family: 'Comic Sans MS';
 }
 
@@ -350,7 +358,7 @@ background: rgba(184, 155, 208, 0.7);
 border: 1px solid #2788C2;
 border-left: none;
 font-family: 'Comic Sans MS';
- color: #422957;
+ color: #ca97d6;
 }
 
 /* logo */
