@@ -128,7 +128,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .right a:link, .right a:active, .right a:visited{
- color:#ca97d6;
+ color:#2788C2;
 }
 
 .right a:hover{
@@ -144,7 +144,7 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 }
 
 .table .right a:link, .table .right_odd a:link, .table .right a:visited, .table .right_odd a:visited, .table .right a:active, .table .right_odd a:active{
- color:#ca97d6;
+ color:#2788C2;
 }
 
 .table .right a:hover, .table .right_odd a:hover{
