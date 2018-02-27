@@ -158,6 +158,11 @@ a:hover, .table a:hover, .right a:hover, .bottom a:hover, .topbar a:hover, .top 
 .inner-table .right a:hover{
  color:#2788C2;
 }
+
+.alert-success a:link, .alert-success a:visited, .alert-success a:active, .alert-danger a:link, .alert-danger a:visited, .alert-danger a:active,{
+ color: #ca97d6;
+}
+ 
  
 /* TO
  
@@ -264,14 +269,14 @@ font-family: 'Comic Sans MS';
 }
 
 .alert-danger {
-color: #422957;
+color: #6243b7;
 background: rgba(232, 192, 216, 0.7);
 border: 1px groove #2788C2;
 font-family: 'Comic Sans MS';
 }
 
 .alert-success {
-color: #422957;
+color: #6243b7;
 background: rgba(184, 155, 208, 0.7);
 border: 1px groove #2788C2;
 font-family: 'Comic Sans MS';
