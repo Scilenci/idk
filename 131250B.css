@@ -100,7 +100,7 @@ border-bottom: 1px groove #2788C2;
 /* BUTTONS */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(232, 192, 216, 0.7);
-color: #422957;
+color: #6243b7;
 border: 1px solid #2788C2;
 text-shadow: none;
 font-weight: bold;
@@ -113,13 +113,13 @@ font-family: 'Comic Sans MS';
 /* LINKS */
  
 .table a:link, .table a:active, .table a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #00041e;
+color: #2788C2;
 font-family: 'Comic Sans MS';
 }
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited, .table .item a:link, .table .item a:active, .table .item a:visited{
 border-bottom: 1px groove #2788C2;
-color: #2788C2;
+color: #00041e;
 font-family: 'Comic Sans MS';
 }
 
