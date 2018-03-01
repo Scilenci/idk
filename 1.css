@@ -2,48 +2,52 @@ div.box1 {
 background:rgba(153, 48, 48, 0.7);
 text-align:center;
 color:#000;
-width:700px;
+width:350px;
 height:60px;
 border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
+ display: inline-block;
 }
 
 .box1:hover {
 background:rgba(153, 48, 48, 0.7);
 text-align:center;
 color:#000;
-width:700;
+width:350;
 height:255px;
 border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
+  display: inline-block;
 }
 
 div.box2 {
 background:rgba(153, 48, 48, 0.7);
 text-align:center;
 color:#000;
-width:700px;
+width:350px;
 height:60px;
 border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
+  display: inline-block;
 }
 
 .box2:hover {
 background:rgba(153, 48, 48, 0.7);
 text-align:center;
 color:#000;
-width:700px;
+width:350px;
 height:255px;
 border:1px dotted black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
+  display: inline-block;
 }
 
 div.box3 {
