@@ -4,7 +4,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -16,7 +16,7 @@ text-align:center;
 color:#000;
 width:700;
 height:255px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -28,7 +28,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -40,7 +40,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:255px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -52,7 +52,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:60px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:hidden;
@@ -64,7 +64,7 @@ text-align:center;
 color:#000;
 width:700px;
 height:255px;
-border:1px solid black;
+border:3px double black;
 transition:all ease 2s;
 border-radius:5px;
 overflow:auto;
@@ -73,7 +73,7 @@ overflow:auto;
 div.boxfloat {
 background:rgba(242, 241, 243,.7);
 color:#000;
-border:1px solid black;
+border:3px double black;
 position:fixed;
 text-align:center;
 border-radius:5px;
@@ -94,7 +94,7 @@ h1, h3 , .sidebar h3 {
 font-family: 'Comic Sans MS' !important;
 text-align: left;
 color: #000;
-border-bottom: 1px solid #000;
+border-bottom: 3px double #000;
 }
 
 /* BUTTONS */
@@ -127,7 +127,7 @@ font-family: 'Comic Sans MS' !important;
  
 .topbar {
 background: rgba(242, 241, 243, 0.7);
-border: 1px solid #000;
+border: 3px double #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 font-family: 'Comic Sans MS' !important;
@@ -135,7 +135,7 @@ font-family: 'Comic Sans MS' !important;
 
 .badge {
 background: rgba(242, 241, 243, 0.7);
-border: 1px solid #000;
+border: 3px double #000;
 font-family: 'Comic Sans MS' !important;
 }
  
@@ -143,7 +143,7 @@ font-family: 'Comic Sans MS' !important;
  
 .main {
 background: rgba(242, 241, 243, 0.5);
-border: 1px solid #000;
+border: 3px double #000;
 box-shadow: none;
 font-family: 'Comic Sans MS' !important;
  color: #000;
@@ -151,7 +151,7 @@ font-family: 'Comic Sans MS' !important;
  
 .navbar {
 background: rgba(242, 241, 243, 0.7);
-border-bottom: 1px solid #000;
+border-bottom: 3px double #000;
 color: #000;
 font-family: 'Comic Sans MS' !important;
 }
@@ -176,15 +176,15 @@ font-family: 'Comic Sans MS' !important;
 .sidebar {
 background: rgba(242, 241, 243, 0.21);
 border: 0px solid #000;
-border-bottom: 1px solid #000;
-border-left: 1px solid #000;
+border-bottom: 3px double #000;
+border-left: 3px double #000;
 color: #000;
 font-family: 'Comic Sans MS' !important;
 }
  
 .col-md-3 .panel {
 background: rgba(242, 241, 243, 0.7);
-border: 1px solid #000;
+border: 3px double #000;
 box-shadow: none;  
 font-family: 'Comic Sans MS' !important;
  color: #000;
@@ -227,21 +227,21 @@ font-family: 'Comic Sans MS' !important;
 .alert-danger {
 color: #000;
 background: rgba(162, 77, 68, 0.7);
-border: 1px solid #000;
+border: 3px double #000;
 font-family: 'Comic Sans MS' !important;
 }
 
 .alert-success {
 color: #000;
 background: rgba(182, 90, 79, 0.7);
-border: 1px solid #000;
+border: 3px double #000;
 font-family: 'Comic Sans MS' !important;
 }
 
 .breadcrumb {
 background:  rgba(242, 241, 243, 0.7);
 font-size: 13px;
-border: 1px solid #000;
+border: 3px double #000;
 font-family: 'Comic Sans MS' !important;
  color: #000;
 }
@@ -275,7 +275,7 @@ font-family: 'Comic Sans MS' !important;
 }
  
 .table, .item {
-border: 1px solid #000;
+border: 3px double #000;
 background: rgba(242, 241, 243, 0.7);
 border-collapse: separate;
 font-family: 'Comic Sans MS' !important;
@@ -299,7 +299,7 @@ font-family: 'Comic Sans MS' !important;
 
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
-border: 1px solid #000;
+border: 3px double #000;
 background: #f2f1f3;
 color: #000;
 font-family: 'Comic Sans MS' !important;
