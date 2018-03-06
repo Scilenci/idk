@@ -44,7 +44,7 @@ div.box4 {
 background:#6f2592;
 text-align:center;
 color:#000;
-width:700px;
+width:705px;
 height:60px;
 border:1px solid black;
 transition:all ease 2s;
@@ -78,7 +78,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://i.imgur.com/aGNewWB.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/eLJvk1L.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
