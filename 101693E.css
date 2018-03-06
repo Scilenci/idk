@@ -126,7 +126,7 @@ font-family: 'Times New Roman';
 /* TOPBAR */
  
 .topbar {
-background: #C317B7;
+background: #6f2592;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -150,7 +150,7 @@ font-family: 'Times New Roman';
 }
  
 .navbar {
-background: #EE1A46;
+background: #6f2592;
 border-bottom: 1px solid #000;
 color: #000;
 font-family: 'Times New Roman';
@@ -163,7 +163,7 @@ font-family: 'Times New Roman';
  
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #6f2592;
+background: #EE1A46;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 font-family: 'Times New Roman';
@@ -196,7 +196,7 @@ font-family: 'Times New Roman';
 }
  
 .progress {
-background: #D1DFFF;
+background: #DD1973;
 border: 1px solid #000;
 font-family: 'Times New Roman';
 }
@@ -233,7 +233,7 @@ font-family: 'Times New Roman';
 
 .alert-success {
 color: #000;
-background: #C317B7;
+background: #DD1973;
 border: 1px solid #000;
 font-family: 'Times New Roman';
 }
@@ -292,7 +292,7 @@ font-family: 'Times New Roman';
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #DD1973;
+background: #6f2592;
 color: #000;
 font-family: 'Times New Roman';
 }
@@ -315,7 +315,7 @@ font-family: 'Times New Roman';
 
 /* right part inside box */
 .inner-table .right {
-background: #C317B7;
+background: #DD1973;
 border: 1px solid #000;
 border-left: none;
  font-family: 'Times New Roman';
