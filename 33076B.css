@@ -1,5 +1,5 @@
 div.box1 {
-background:rgba(202, 219, 255, 0.7);
+background:#476450;
 text-align:center;
 color:#000;
 width:233px;
@@ -13,7 +13,7 @@ display: inline-block;
 
 
 div.box2 {
-background:rgba(202, 219, 255, 0.7);
+background:#476450;
 text-align:center;
 color:#000;
 width:233px;
@@ -28,7 +28,7 @@ display: inline-block;
 
 
 div.box3 {
-background:rgba(202, 219, 255, 0.7);
+background:#476450;
 text-align:center;
 color:#000;
 width:233px;
@@ -41,7 +41,7 @@ display: inline-block;
 }
 
 div.box4 {
-background:#6f2592;
+background:#476450;
 text-align:center;
 color:#000;
 width:705px;
@@ -53,7 +53,7 @@ overflow:hidden;
 }
 
 .box4:hover {
-background:#6f2592;
+background:#476450;
 text-align:center;
 color:#000;
 width:700px;
@@ -65,7 +65,7 @@ overflow:auto;
 }
 
 div.boxfloat {
-background:rgba(202, 219, 255,.7);
+background:#476450;
 color:#000;
 border:1px solid black;
 position:fixed;
@@ -120,7 +120,7 @@ font-family: 'Courier New' !important;
 /* TOPBAR */
  
 .topbar {
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
@@ -128,7 +128,7 @@ font-family: 'Courier New' !important;
 }
 
 .badge {
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 border: 1px solid #000;
 font-family: 'Courier New' !important;
 }
@@ -136,7 +136,7 @@ font-family: 'Courier New' !important;
 /* NAVBAR */
  
 .main {
-background: rgba(252, 206, 253, 0.5);
+background: rgba(71, 100, 80, 0.5);
 border: 1px solid #000;
 box-shadow: none;
 font-family: 'Courier New' !important;
@@ -144,7 +144,7 @@ font-family: 'Courier New' !important;
 }
  
 .navbar {
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 border-bottom: 1px solid #000;
 color: #000;
 font-family: 'Courier New' !important;
@@ -168,7 +168,7 @@ font-family: 'Courier New' !important;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(252, 206, 253, 0.21);
+background: rgba(71, 100, 80, 0.21);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -177,7 +177,7 @@ font-family: 'Courier New' !important;
 }
  
 .col-md-3 .panel {
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 border: 1px solid #000;
 box-shadow: none;  
 font-family: 'Courier New' !important;
@@ -200,7 +200,7 @@ font-family: 'Courier New' !important;
 /* CHAT */
  
 .chat_light, .chat_dark {
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 font-size: 11px;
 color: #000;
 font-family: 'Courier New' !important;
@@ -233,7 +233,7 @@ font-family: 'Courier New' !important;
 }
 
 .breadcrumb {
-background:  rgba(202, 219, 255, 0.7);
+background:  #476450;
 font-size: 13px;
 border: 1px solid #000;
 font-family: 'Courier New' !important;
@@ -270,7 +270,7 @@ font-family: 'Courier New' !important;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 border-collapse: separate;
  font-family: 'Courier New' !important;
  color: #000;
@@ -286,7 +286,7 @@ border: 0px solid #000;
 /* top and bottom of boxes */
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(202, 219, 255, 0.7);
+background: #476450;
 color: #000;
 font-family: 'Courier New' !important;
 }
@@ -294,7 +294,7 @@ font-family: 'Courier New' !important;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #D1DFFF;
+background: #476450;
 color: #000;
 font-family: 'Courier New' !important;
 }
