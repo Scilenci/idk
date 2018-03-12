@@ -207,7 +207,7 @@ font-family: 'Josefin Slab', Arial, serif;
  
 .chat_light, .chat_dark {
 background: rgba(201, 202, 222, 0.7);
-font-size: 11px;
+font-size: 16px;
 color: #000;
 font-family: 'Josefin Slab', Arial, serif;
 }
@@ -344,11 +344,11 @@ border: none;
 }
 
 /* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
-textarea {color:black!important;}
+textarea {color:black!important; font-size: 16px;}
 
-input[tpye="text"] {color:black!important;}
+input[tpye="text"] {color:black!important; font-size: 16px;}
 
-select {color:black!important;}
+select {color:black!important; font-size: 16px;}
 
  
  /* fill in for extra info */
