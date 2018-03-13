@@ -66,7 +66,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("https://i.imgur.com/aGNewWB.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://i.imgur.com/XdeEiJ7.gif") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -334,6 +334,7 @@ select {color:black!important;}
 
  
  /* fill in for extra info */
+main: #ffd0cf off white: #ffe6e6 darker: #ffb3b3
 
  
  /* HTML is 
