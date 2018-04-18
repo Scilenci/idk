@@ -300,7 +300,7 @@ color: #000;
 /* cave and mound boxes */
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #D1DFFF;
+background: #e3dac9;
 color: #000;
  font-family: Arial;
 }
