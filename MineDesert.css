@@ -105,12 +105,12 @@ font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .progress-bar {
-background: #969083;
+background: #797265;
 font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .progress {
-background: #797265;
+background: #969083;
 border: 1px solid #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
