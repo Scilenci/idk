@@ -138,14 +138,14 @@ font-family: 'Nixie One', "Courier New", cursive;
 
 .alert-danger {
 color: #000000;
-background: rgba(102, 102, 102, 0.80);
+background: rgba(93, 79, 64, 0.80);
 border: 3px double #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
 
 .alert-success {
 color: #000;
-background: rgba(140, 140, 140, 0.80);
+background: rgba(93, 79, 64, 0.80);
 border: 3px double #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
@@ -222,7 +222,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 
 /* right part inside box */
 .inner-table .right {
-background: rgba(140, 140, 140, 0.80);
+background: rgba(93, 79, 64, 0.80);
 border: 1px solid #000;
 border-left: none;
 font-family: 'Nixie One', "Courier New", cursive;
