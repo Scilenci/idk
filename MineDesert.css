@@ -58,7 +58,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 /* NAVBAR */
  
 .main {
-background: rgba(164, 164, 164, 0.21);
+background: rgba(93, 79, 64, 0.21);
 border: 3px double #000;
 box-shadow: none;
 font-family: 'Nixie One', "Courier New", cursive;
@@ -89,7 +89,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 /* SIDEBAR */
  
 .sidebar {
-background: rgba(164, 164, 164, 0.21);
+background: rgba(93, 79, 64, 0.21);
 border: 0px solid #000;
 border-bottom: 3px double #000;
 border-left: 3px double #000;
