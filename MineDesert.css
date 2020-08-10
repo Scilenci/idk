@@ -110,7 +110,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 }
  
 .progress {
-background: #877461;
+background: #797265;
 border: 1px solid #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
@@ -215,7 +215,7 @@ font-family: 'Nixie One', "Courier New", cursive;
 /* left part inside box */
 .table .left {
 border: 1px solid #000;
-background: rgba(135, 116, 97, 0.80);
+background: rgba(121, 114, 101, 0.80);
 color: #000;
 font-family: 'Nixie One', "Courier New", cursive;
 }
